@@ -129,11 +129,12 @@ graph TD
 ai-code-jam-gnn/
 ├── data/
 │   └── sample.ifc              # Sample BIM model in IFC format
-├── parse_ifc.py               # IFC → JSON extraction script
-├── graph_builder.py           # Core graph construction logic
-├── agent.py                   # Agent interface for prompt interpretation
-├── main.py                    # Entry point to run full pipeline
-├── utils.py                   # Helper functions (optional)
+├── src/
+│   ├── parse_ifc.py               # IFC → JSON extraction script
+│   ├── graph_builder.py           # Core graph construction logic
+│   ├── agent.py                   # Agent interface for prompt interpretation
+│   ├── main.py                    # Entry point to run full pipeline
+│   └── utils.py                   # Helper functions (optional)
 └── README.md
 ```
 
