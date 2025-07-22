@@ -7,7 +7,8 @@ Welcome to the MOD AI Code Jam! This is a collaborative and creative challenge w
 ## 🧠 Goal
 
 Build a modular pipeline that:
-1. **Parses a simplified BIM model**
+
+1. **Parses a BIM model from IFC format**
 2. **Extracts contextual relationships (e.g., adjacency, containment, connectivity)**
 3. **Constructs a graph abstraction (nodes + edges + attributes)**
 4. **Wraps this into a lightweight agent** that responds to user prompts like:
@@ -26,7 +27,7 @@ You’ll also simulate how this capability would be embedded in a **LangGraph-st
 ## 👥 Team Roles
 
 - **Lukas**:  
-  Lead BIM logic, define sample geometry and semantic structures (e.g., JSON format for rooms, walls, doors).
+  Lead BIM logic, define geometry extraction from IFC using tools like `ifcopenshell`.
 
 - **Ata & Emilio**:  
   Lead graph extraction logic, feature engineering, and agent construction.
@@ -38,12 +39,13 @@ You’ll also simulate how this capability would be embedded in a **LangGraph-st
 
 ## 🔧 Tasks Overview
 
-### 1. Parse BIM Input
-- Load simplified BIM IFC describing spaces and elements (rooms, walls, doors)
-- Each element has geometry, type, and optional metadata
-- Create a JSON representation of the elements
+### 1. Parse IFC Model
+
+- Use `ifcopenshell` (Python) to extract relevant spatial elements from a provided `.ifc` file
+- Transform those elements into structured JSON (e.g., rooms, walls, doors with metadata)
 
 ### 2. Build Context Graph
+
 - Nodes: prefab-suitable elements (e.g., rooms, walls, doors)
 - Edges: spatial/semantic relationships
   - `adjacent_to`
@@ -53,7 +55,9 @@ You’ll also simulate how this capability would be embedded in a **LangGraph-st
 - Output: Graph object (e.g., NetworkX) + JSON
 
 ### 3. Add Agentic Wrapper
+
 Build a lightweight agent that:
+
 - Accepts natural-language prompts
 - Parses intent (e.g., which types of nodes/edges to include)
 - Filters input and calls the graph builder
@@ -70,7 +74,7 @@ Build a lightweight agent that:
 | Phase     | Duration | Focus                                  |
 |-----------|----------|----------------------------------------|
 | Intro     | 30 min   | Walkthrough of challenge + Q&A         |
-| Coding    | 2 hrs    | Build core graph + agentic wrapper     |
+| Coding    | 2 hrs    | Build IFC parser + graph + agent       |
 | Debrief   | 30 min   | Share solutions and discuss takeaways  |
 
 ---
@@ -78,8 +82,9 @@ Build a lightweight agent that:
 ## 📦 Inputs
 
 We'll provide:
-- Sample BIM input IFC (rooms, walls, doors)
-- Optional starter repo (with utilities, types, and graph I/O functions)
+
+- A sample `.ifc` file representing a simple BIM scenario
+- This repository includes optional starter utilities, type definitions, and graph I/O functions to help you get started quickly.
 - Option to use OpenRouter or local GPT (via Ollama) if desired
 
 ---
@@ -87,7 +92,8 @@ We'll provide:
 ## 📤 Output
 
 - Python script or notebook that:
-  - Builds graph from BIM data
+  - Parses IFC → structured JSON
+  - Builds a context graph
   - Supports filtered prompt input via agent
 - Graph output in JSON or `networkx` format
 - (Optional) Visualization or GPT-based explanation
@@ -95,14 +101,41 @@ We'll provide:
 
 ---
 
+## 🔄 Processing Pipeline
+
+```mermaid
+graph TD
+    A[IFC File (.ifc)] --> B[IFC Parser (parse_ifc.py)]
+    B --> C[Structured JSON of BIM Elements]
+    C --> D[Contextual Graph Builder (graph_builder.py)]
+    D --> E[Agentic Assistant (agent.py)]
+    E --> F[Graph Output + Summary]
+```
+
+---
+
 ## 🧑‍🔧 Tech Stack Suggestions
 
 - Language: Python
-- Libraries: `networkx`, `json`, `pydantic`, `trimesh`, `spatial`, `LangChain` (optional)
+- Libraries: `ifcopenshell`, `networkx`, `json`, `pydantic`, `trimesh`, `LangChain` (optional)
 - GPT Access: OpenRouter or local Ollama (if used)
 - Agent Emulation: Minimal planning → tool call → return
 
 ---
+
+## 🗂️ Project Structure
+
+```tree
+ai-code-jam-gnn/
+├── data/
+│   └── sample.ifc              # Sample BIM model in IFC format
+├── parse_ifc.py               # IFC → JSON extraction script
+├── graph_builder.py           # Core graph construction logic
+├── agent.py                   # Agent interface for prompt interpretation
+├── main.py                    # Entry point to run full pipeline
+├── utils.py                   # Helper functions (optional)
+└── README.md
+```
 
 ## 🚀 Let’s Build the First MOD Graph Tool!
 
