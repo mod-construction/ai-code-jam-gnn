@@ -39,8 +39,9 @@ You’ll also simulate how this capability would be embedded in a **LangGraph-st
 ## 🔧 Tasks Overview
 
 ### 1. Parse BIM Input
-- Load simplified BIM JSON describing spaces and elements (rooms, walls, doors)
+- Load simplified BIM IFC describing spaces and elements (rooms, walls, doors)
 - Each element has geometry, type, and optional metadata
+- Create a JSON representation of the elements
 
 ### 2. Build Context Graph
 - Nodes: prefab-suitable elements (e.g., rooms, walls, doors)
@@ -77,7 +78,7 @@ Build a lightweight agent that:
 ## 📦 Inputs
 
 We'll provide:
-- Sample BIM input JSON (rooms, walls, doors)
+- Sample BIM input IFC (rooms, walls, doors)
 - Optional starter repo (with utilities, types, and graph I/O functions)
 - Option to use OpenRouter or local GPT (via Ollama) if desired
 
