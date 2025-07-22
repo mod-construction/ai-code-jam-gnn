@@ -135,6 +135,7 @@ ai-code-jam-gnn/
 │   ├── agent.py                   # Agent interface for prompt interpretation
 │   ├── main.py                    # Entry point to run full pipeline
 │   └── utils.py                   # Helper functions (optional)
+├── requirements.txt               # Dependencies used in the project
 └── README.md
 ```
 
