@@ -105,11 +105,11 @@ We'll provide:
 
 ```mermaid
 graph TD
-    A[IFC File (.ifc)] --> B[IFC Parser (parse_ifc.py)]
-    B --> C[Structured JSON of BIM Elements]
-    C --> D[Contextual Graph Builder (graph_builder.py)]
-    D --> E[Agentic Assistant (agent.py)]
-    E --> F[Graph Output + Summary]
+    A["IFC File (.ifc)"] --> B["IFC Parser (parse_ifc.py)"]
+    B --> C["Structured JSON of BIM Elements"]
+    C --> D["Contextual Graph Builder (graph_builder.py)"]
+    D --> E["Agentic Assistant (agent.py)"]
+    E --> F["Graph Output + Summary"]
 ```
 
 ---
