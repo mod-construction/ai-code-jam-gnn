@@ -1,0 +1,5399 @@
+{
+  "walls": [
+    {
+      "global_id": "00oZxkjymyIBhCBmXyRiqV",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 23606.615,
+        "ymin": 15199.965,
+        "zmin": 3500.0,
+        "xmax": 23625.035,
+        "ymax": 15200.035,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "3EL1ABfYJtJ9rtby0Bbdda"
+      ],
+      "contained_in": [
+        "09$gDPIZkEJQO8YnxbpeIN"
+      ]
+    },
+    {
+      "global_id": "0Kx7WcQm__GO5WhM4zDFZE",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 23609.35,
+        "ymin": 17069.964999932403,
+        "zmin": 3500.0,
+        "xmax": 23624.965,
+        "ymax": 17070.035,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "3XLysH4DB1H8nC8bw96CgY"
+      ],
+      "contained_in": [
+        "3pvKV5NrIjG9Wa986R1dCF",
+        "1pkZOqFxMrGwf6Ui4FWU0p"
+      ]
+    },
+    {
+      "global_id": "1W3T6mmG9qJRxB$zh5oUqJ",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 23613.715,
+        "ymin": 11999.965,
+        "zmin": 0.0,
+        "xmax": 23625.035,
+        "ymax": 12000.035,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "381HcN2D5$JANdpcTlfNFz",
+        "1pkZOqFxMrGwf6Ui4FWU0p"
+      ],
+      "contained_in": [
+        "2y0GalNxV5IeVAxw4zbkI8",
+        "0eFN2nXEjfGPE9RIOfLdDM"
+      ]
+    },
+    {
+      "global_id": "3rhRuQulnHHBg4ntrur0$7",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 23613.785,
+        "ymin": 11999.965,
+        "zmin": 3500.0,
+        "xmax": 23624.965,
+        "ymax": 12000.035,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "1FPwTtinBrHAz$dVFHAyVW"
+      ],
+      "contained_in": [
+        "0uYgRJHVPyHvfZNmKil5Ws",
+        "3XPLIChZ5LJPSqCqdaTprj"
+      ]
+    },
+    {
+      "global_id": "1_BpZg_JtqGRbcbvB0MGtM",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 23617.76213552774,
+        "ymin": 15199.965,
+        "zmin": 0.0,
+        "xmax": 23625.035,
+        "ymax": 15200.035,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "0UpFDqAqEOGg5iv865D1zu"
+      ],
+      "contained_in": [
+        "2LaO0c542_HQ7TbdqkjaJG",
+        "3QwK4wQe8JJxmGbOoiU7L7"
+      ]
+    },
+    {
+      "global_id": "01qE6CMplBHQf1P5yy_Ygs",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 40901.99,
+        "ymin": 22459.9,
+        "zmin": -50.0,
+        "xmax": 40935.24,
+        "ymax": 22460.24,
+        "zmax": -46.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "04JM0vYFGXIgglucY7BmJa",
+        "3wIqONHk7gJ8ouep8DK5Ld"
+      ],
+      "contained_in": [
+        "27Vf1ts_tBIgQYoldh848Q",
+        "3xKsbzsPNwGAnYcx3cPd4G"
+      ]
+    },
+    {
+      "global_id": "1j8fyE08bCJ8jG_Gzg0dMC",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 23609.35,
+        "ymin": 17069.964999932403,
+        "zmin": 0.0,
+        "xmax": 23624.965,
+        "ymax": 17070.035,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "3IV7LJvGFIJhN3EtHpDtGN",
+        "3zWu48rFP6G9I0YF6kYWnv"
+      ],
+      "contained_in": [
+        "2Qjs_v3pwxGOR1Fn1kJNXU"
+      ]
+    },
+    {
+      "global_id": "1j1C6txTDwJuHxAjYhvtRx",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 15117.85,
+        "ymin": 15199.965,
+        "zmin": 0.0,
+        "xmax": 15124.965,
+        "ymax": 15200.035,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "0N2bhoafjXJxmwaLZt4t27",
+        "1YuFAthX24Gvp_Ni3u44gf",
+        "3zc05Hpvo0HQg3tLkSS0Wb"
+      ],
+      "contained_in": [
+        "3hOLayo2FKIPq0Owpqjuav",
+        "1qRATxN2wTHxtFneR_yG7J"
+      ]
+    },
+    {
+      "global_id": "1hPWm$nXDeIerpwI_d4GCo",
+      "name": "Limestone wall (LB)",
+      "BoundingBox": {
+        "xmin": 33480.5028667,
+        "ymin": 10549.95,
+        "zmin": -50.0,
+        "xmax": 33487.807413833325,
+        "ymax": 10550.05,
+        "zmax": -46.72
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "0iP0Fjo3rvJ9JuUI3UGzxR"
+      ],
+      "contained_in": [
+        "3SQWsCfiSEG89C4mGi0lQ2"
+      ]
+    },
+    {
+      "global_id": "04JM0vYFGXIgglucY7BmJa",
+      "name": "Limestone wall (LB)",
+      "BoundingBox": {
+        "xmin": 33480.402866699995,
+        "ymin": 22448.04,
+        "zmin": -50.0,
+        "xmax": 33480.50286671603,
+        "ymax": 22459.9,
+        "zmax": -46.68
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "2I0oIi9FU_HPuEBunahnxz",
+        "1YgousCfFMIudPvW7hLqEJ",
+        "2f0PLoF78$GhaQRAvZo$6e"
+      ],
+      "contained_in": [
+        "14EAB2Cnr2HANe91KK41$c"
+      ]
+    },
+    {
+      "global_id": "2gg13ybkc7HPWyaPsuWoKa",
+      "name": "Limestone wall (LB)",
+      "BoundingBox": {
+        "xmin": 7875.0,
+        "ymin": 15199.965,
+        "zmin": 3450.0,
+        "xmax": 7875.1,
+        "ymax": 15207.16,
+        "zmax": 3453.32
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1TaPExgsyvIBKYgJOpFRgJ",
+        "0iQz9rPmMZHO0AgpN9B8rY"
+      ],
+      "contained_in": [
+        "2sE_pevl9nGhCV4znjtO9R"
+      ]
+    },
+    {
+      "global_id": "2pUxpnaptyGh0VUlku5UIt",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 20104.93,
+        "ymin": 15196.835,
+        "zmin": 0.0,
+        "xmax": 20105.0,
+        "ymax": 15199.965,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "33qWHuUc6PGujqWiZMdank",
+        "04ShSujTJFJAnDfdKCQ0gy",
+        "1kGer5A6DCJAcLCrEFBWwQ"
+      ],
+      "contained_in": [
+        "01wZDSu5RIIO3GbHvsd7dl",
+        "2OQRhzDL9vJOlqtL$ToOX5"
+      ]
+    },
+    {
+      "global_id": "37rn8EF7izGeT$BXEGFUY5",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 20104.93,
+        "ymin": 15196.835,
+        "zmin": 3500.0,
+        "xmax": 20105.0,
+        "ymax": 15199.965,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "37cR5K57qfHwOfNCGVWaim",
+        "3cYmnA9EelJxHcdlbUTwZU",
+        "1hPWm$nXDeIerpwI_d4GCo"
+      ],
+      "contained_in": [
+        "2x5ldlpZxyIhvO92Q8ApcG",
+        "3kOfq3HwSTHOe4u1mkuFkp"
+      ]
+    },
+    {
+      "global_id": "0eFN2nXEjfGPE9RIOfLdDM",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 31139.660487636098,
+        "ymin": 22459.9,
+        "zmin": 3450.0,
+        "xmax": 31166.0162639,
+        "ymax": 22460.24,
+        "zmax": 3453.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "2pUxpnaptyGh0VUlku5UIt"
+      ],
+      "contained_in": [
+        "0iQz9rPmMZHO0AgpN9B8rY",
+        "0SuiQ65lh0HQW6YF5NTEei"
+      ]
+    },
+    {
+      "global_id": "1LGIYw_SsfHvg4lKWdDFpQ",
+      "name": "Cavity wall (LB)",
+      "BoundingBox": {
+        "xmin": 7680.0,
+        "ymin": 10489.76,
+        "zmin": -50.0,
+        "xmax": 7684.675,
+        "ymax": 10490.1,
+        "zmax": -46.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "0DJnpeFZazGxH3BPJYujT1",
+        "1jE1KIz4f1Hw6RFGAmuzRS"
+      ],
+      "contained_in": [
+        "0prJSdTOFKHRewMSnru_oj"
+      ]
+    },
+    {
+      "global_id": "2x5ldlpZxyIhvO92Q8ApcG",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 33504.6574298173,
+        "ymin": 19959.9,
+        "zmin": 6950.0,
+        "xmax": 33530.6928827,
+        "ymax": 19960.24,
+        "zmax": 6953.55
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1$Pv3SMMXcGvVzN4p7G0CX",
+        "35YjQtP$GtHRg9k21VgGK0",
+        "3BabKTInSOG99Pftm4s4ts"
+      ],
+      "contained_in": [
+        "3Wh5izhscGHxiSHyTYxUv3",
+        "2hghIub4_6Jx1KhY3_7k54"
+      ]
+    },
+    {
+      "global_id": "1Zs6iYoMaeIxA0AusxNZP3",
+      "name": "Limestone wall (LB)",
+      "BoundingBox": {
+        "xmin": 7875.0,
+        "ymin": 15199.965,
+        "zmin": -50.0,
+        "xmax": 7875.1,
+        "ymax": 15207.16,
+        "zmax": -46.72
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "2iYnqQc11MHQPIW7LGY9ao"
+      ],
+      "contained_in": [
+        "0UTvxFujVXJxKeHiChYokJ",
+        "3hOLayo2FKIPq0Owpqjuav"
+      ]
+    },
+    {
+      "global_id": "1YgousCfFMIudPvW7hLqEJ",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 40934.9,
+        "ymin": 6889.76,
+        "zmin": -50.0,
+        "xmax": 40935.24,
+        "ymax": 6897.18398985727,
+        "zmax": -46.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "2VAd6iBuE_J9$9cSYWk662",
+        "3bqEePUxY6JQziJltAxSAN"
+      ],
+      "contained_in": [
+        "2WxlJcqgXiHhEvEmREXH8o"
+      ]
+    },
+    {
+      "global_id": "1qxZQJnXlxGeVcuDI1sZDI",
+      "name": "Limestone wall (LB)",
+      "BoundingBox": {
+        "xmin": 31204.95,
+        "ymin": 10787.206458028078,
+        "zmin": -50.0,
+        "xmax": 31205.05,
+        "ymax": 10789.9500104337,
+        "zmax": -46.72
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "11gPfmcjyqJhomqSGf7mXd",
+        "3ROL0hMKc4Hgit0zCHCwXv",
+        "2OZLm2wbEWHQBIFJPbJgIH"
+      ],
+      "contained_in": [
+        "2VAd6iBuE_J9$9cSYWk662"
+      ]
+    },
+    {
+      "global_id": "1FPwTtinBrHAz$dVFHAyVW",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 23624.965,
+        "ymin": 15196.835,
+        "zmin": 0.0,
+        "xmax": 23625.035,
+        "ymax": 15199.965,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "11gPfmcjyqJhomqSGf7mXd",
+        "2hghIub4_6Jx1KhY3_7k54",
+        "1KbpVG$QqXGPbBz3scmbAn"
+      ],
+      "contained_in": [
+        "3qE4bVQPeSGAyLatbOcrqM"
+      ]
+    },
+    {
+      "global_id": "1JQYar$HmaHQkVZQSGlt_c",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 23624.965,
+        "ymin": 15196.765,
+        "zmin": 3500.0,
+        "xmax": 23625.035,
+        "ymax": 15199.965,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "33qWHuUc6PGujqWiZMdank",
+        "0EeXZJqmyiIPSbgydWBfyA",
+        "0nloUkMePlHBOwjWOtZUVb"
+      ],
+      "contained_in": [
+        "04JM0vYFGXIgglucY7BmJa"
+      ]
+    },
+    {
+      "global_id": "21cuGnKh0bHOhRG9r3W0gy",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 23624.965,
+        "ymin": 15200.035,
+        "zmin": 3500.0,
+        "xmax": 23625.035000137002,
+        "ymax": 15202.005,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "2x5ldlpZxyIhvO92Q8ApcG"
+      ],
+      "contained_in": [
+        "0UTvxFujVXJxKeHiChYokJ",
+        "0QCuly27ZXHANCxc_hTSMx"
+      ]
+    },
+    {
+      "global_id": "1O3RMJl1OTH8ppN6rgvg39",
+      "name": "Limestone wall (LB)",
+      "BoundingBox": {
+        "xmin": 31099.92,
+        "ymin": 12099.95,
+        "zmin": 6950.0,
+        "xmax": 31103.05,
+        "ymax": 12100.05,
+        "zmax": 6953.55
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "0uYgRJHVPyHvfZNmKil5Ws",
+        "1YgousCfFMIudPvW7hLqEJ"
+      ],
+      "contained_in": [
+        "35YjQtP$GtHRg9k21VgGK0"
+      ]
+    },
+    {
+      "global_id": "3VPf7giFU0IPxA$GXP_eGu",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 18624.965,
+        "ymin": 15196.835,
+        "zmin": 0.0,
+        "xmax": 18625.035,
+        "ymax": 15199.965,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "0LWXaaA4PNJuyZAIYd69DL",
+        "38KPbBN7oRIOHJXb3Q6lMC",
+        "08yQEbajQXJfUI_3nI2d89"
+      ],
+      "contained_in": [
+        "2ZNV$uix3PH8AlCKLGFzBS"
+      ]
+    },
+    {
+      "global_id": "2by_PWIeRDHPJ24jaxDckZ",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 18764.965,
+        "ymin": 15196.835,
+        "zmin": 0.0,
+        "xmax": 18765.035,
+        "ymax": 15199.965,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "3o5rU1yyOjHgYAEysadq3G",
+        "2fq7yhimvlGhkTiZrkIbGP"
+      ],
+      "contained_in": [
+        "1j09OLXRkoIR2OtBjw3u4N"
+      ]
+    },
+    {
+      "global_id": "1mIs6g10yZIvD_u9hWCy7p",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 38899.1341024,
+        "ymin": 10550.05,
+        "zmin": 0.0,
+        "xmax": 38899.2041024,
+        "ymax": 10553.46,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "33qWHuUc6PGujqWiZMdank"
+      ],
+      "contained_in": [
+        "0wcAFmuKSLIBWujK5Xn_sj",
+        "2XHtXqqQVNGenSmWHWIrNp"
+      ]
+    },
+    {
+      "global_id": "2I0oIi9FU_HPuEBunahnxz",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 29204.95,
+        "ymin": 14546.18999141896,
+        "zmin": 0.0,
+        "xmax": 29205.05,
+        "ymax": 14550.0499914,
+        "zmax": 3.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "2fM$fe6DU0GuiVljBHWxF6",
+        "0LWXaaA4PNJuyZAIYd69DL",
+        "0Kx7WcQm__GO5WhM4zDFZE"
+      ],
+      "contained_in": [
+        "10n1ThpPkmJuxcSlyNttT9",
+        "0ceVYxftFPIOkkeKx7yr0m"
+      ]
+    },
+    {
+      "global_id": "1wUxdICfGvIv30pIKbpwnP",
+      "name": "Limestone wall (LB)",
+      "BoundingBox": {
+        "xmin": 40927.59545286667,
+        "ymin": 14059.95,
+        "zmin": -50.0,
+        "xmax": 40934.9,
+        "ymax": 14060.05,
+        "zmax": -46.72
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "2cxgMcsC2OIvi3TYtxx1z8",
+        "2VVYvOsDjzIuI7LmlcNuZm"
+      ],
+      "contained_in": [
+        "0S3Dwuj5ORJQxklhs6bDDY",
+        "2wtmdPiT1RJACzLvafBFJ1"
+      ]
+    },
+    {
+      "global_id": "3gy3$07b7uJeGmjrxsKNUA",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 18764.965,
+        "ymin": 15196.835,
+        "zmin": 3500.0,
+        "xmax": 18765.035,
+        "ymax": 15199.965,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "2B$iqPhv6hJhU48hXBMWEa"
+      ],
+      "contained_in": [
+        "2Ls8dPmTeTI9Wk8h2yTwg1",
+        "1PMmebNBNNGfrynBxAQxuU"
+      ]
+    },
+    {
+      "global_id": "0Dfm1e5pxOHx9edHzuTB7v",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 5189.86,
+        "ymin": 10489.76,
+        "zmin": 3450.0,
+        "xmax": 5193.06,
+        "ymax": 10490.1,
+        "zmax": 3453.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1hY7UjPgTeGB7sAOVJVqeO",
+        "0wcAFmuKSLIBWujK5Xn_sj",
+        "3GWisO53nnH8TFPusq5sWR"
+      ],
+      "contained_in": [
+        "1s$E0j3fDgHePRF$KFAokQ"
+      ]
+    },
+    {
+      "global_id": "1vPBxIaDURGPuTNYDT1Ane",
+      "name": "Cavity wall (LB)",
+      "BoundingBox": {
+        "xmin": 8250.0,
+        "ymin": 10489.76,
+        "zmin": 3450.0,
+        "xmax": 8254.125,
+        "ymax": 10490.1,
+        "zmax": 3453.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "0uKRArdZatHR60eJCvA5NS"
+      ],
+      "contained_in": [
+        "3DF3Yy4fQXJBCv$Dxun$VN",
+        "11gPfmcjyqJhomqSGf7mXd"
+      ]
+    },
+    {
+      "global_id": "2vmG9XpyLqGAX2UYALRNTW",
+      "name": "Limestone wall (LB)",
+      "BoundingBox": {
+        "xmin": 33430.4528827,
+        "ymin": 14002.98,
+        "zmin": 3450.0,
+        "xmax": 33430.5528827,
+        "ymax": 14010.0,
+        "zmax": 3453.32
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3KJptzkSKNHegh3GcllWLL",
+        "2oBi6NhxRrIRDHUbaO7Le4",
+        "3DF3Yy4fQXJBCv$Dxun$VN"
+      ],
+      "contained_in": [
+        "2iGMEEds3EHQYPxv_LOsdD",
+        "2IH78HzNhNIgx$37lpP1Wb"
+      ]
+    },
+    {
+      "global_id": "0iQz9rPmMZHO0AgpN9B8rY",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 29205.05,
+        "ymin": 10789.9500104,
+        "zmin": 0.0,
+        "xmax": 29207.05,
+        "ymax": 10790.050010399998,
+        "zmax": 3.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "23AEDxFEeLI800iHeqDPIu",
+        "3ezkCGBwNxJRGljtVqdhw1",
+        "0ab7580LQ1IP1zArGrmhW1"
+      ],
+      "contained_in": [
+        "0wlHUzvRFtJhkhzba7LxvV"
+      ]
+    },
+    {
+      "global_id": "15sew9UBVjGfhfgjGvZQWS",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 23624.965,
+        "ymin": 15200.035,
+        "zmin": 0.0,
+        "xmax": 23625.035000137002,
+        "ymax": 15202.005,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "1op3cxYQUHHeSy5Itb6Vk4",
+        "2_FxpXWsV8HQcqyjcJ6hw5",
+        "3DF3Yy4fQXJBCv$Dxun$VN"
+      ],
+      "contained_in": [
+        "2qX8D8SPd$G8uvxBYroJ2M"
+      ]
+    },
+    {
+      "global_id": "2Ls8dPmTeTI9Wk8h2yTwg1",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 12374.965,
+        "ymin": 17070.035,
+        "zmin": 3500.0,
+        "xmax": 12375.035,
+        "ymax": 17075.29,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "1vPBxIaDURGPuTNYDT1Ane",
+        "2k3GXDA6TwHfKwdt8owgKN"
+      ],
+      "contained_in": [
+        "2e0hyi4eixHRv0RNImlgSS"
+      ]
+    },
+    {
+      "global_id": "2kkocBYPkGHgRmE$2xflbS",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 12374.965,
+        "ymin": 15195.39,
+        "zmin": 3500.0,
+        "xmax": 12375.035,
+        "ymax": 15199.965,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "0SuiQ65lh0HQW6YF5NTEei"
+      ],
+      "contained_in": [
+        "3BabKTInSOG99Pftm4s4ts",
+        "2fq7yhimvlGhkTiZrkIbGP"
+      ]
+    },
+    {
+      "global_id": "1x_lBR9FMAJOIAGmE63wQF",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 7874.85,
+        "ymin": 11999.95,
+        "zmin": -800.0,
+        "xmax": 7883.95,
+        "ymax": 12000.05,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "0DJnpeFZazGxH3BPJYujT1"
+      ],
+      "contained_in": [
+        "0UiLa1w$4WI9ncINjeNS$G"
+      ]
+    },
+    {
+      "global_id": "0g1H_4vO_CHxEQ3RjrRJJ0",
+      "name": "Limestone wall (LB)",
+      "BoundingBox": {
+        "xmin": 31205.05,
+        "ymin": 10549.95,
+        "zmin": -50.0,
+        "xmax": 31207.22545286667,
+        "ymax": 10550.05,
+        "zmax": -46.72
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3zc05Hpvo0HQg3tLkSS0Wb",
+        "0JGNzE3ztiHgWqijPNPU_w",
+        "1ss7yEk8bAGO$FhKbU_me4"
+      ],
+      "contained_in": [
+        "0mIXQbWCIVJhuFRTxm34Om",
+        "0uYgRJHVPyHvfZNmKil5Ws"
+      ]
+    },
+    {
+      "global_id": "1500DDghuxJP$Mg2u6owp0",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 33488.5615738,
+        "ymin": 6889.76,
+        "zmin": -50.0,
+        "xmax": 33496.14801222618,
+        "ymax": 6890.1,
+        "zmax": -46.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1p6CtTAKZxHxiCySI5_sQf",
+        "3XLysH4DB1H8nC8bw96CgY"
+      ],
+      "contained_in": [
+        "0wcAFmuKSLIBWujK5Xn_sj"
+      ]
+    },
+    {
+      "global_id": "2Nw1KefSh$IPMTUeFUr_5U",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 5189.76,
+        "ymin": 17092.251,
+        "zmin": -50.0,
+        "xmax": 5190.1,
+        "ymax": 17099.0,
+        "zmax": -46.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "0EeXZJqmyiIPSbgydWBfyA",
+        "0LWXaaA4PNJuyZAIYd69DL",
+        "0ZjJnZz0CFHfr$2NVw5yxI"
+      ],
+      "contained_in": [
+        "0v2OrDD7BqJv2QWty1fGOV",
+        "2XHtXqqQVNGenSmWHWIrNp"
+      ]
+    },
+    {
+      "global_id": "1G7top5HEGJBHN1AeCloul",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 15124.965,
+        "ymin": 15196.835,
+        "zmin": 0.0,
+        "xmax": 15125.035,
+        "ymax": 15200.0,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "23AEDxFEeLI800iHeqDPIu",
+        "3OJiefLKGLJAAKAqHOU6Zx"
+      ],
+      "contained_in": [
+        "1mn2nuvIi1J8WUBuGPDIVq",
+        "0wB_7sUWOGGRmBqLS98GkT"
+      ]
+    },
+    {
+      "global_id": "33NdFFsh7LJBxbCvZIgLS$",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 18625.035,
+        "ymin": 14133.2983333,
+        "zmin": 0.0,
+        "xmax": 18626.41,
+        "ymax": 14133.368333299999,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "0UpFDqAqEOGg5iv865D1zu"
+      ],
+      "contained_in": [
+        "0UpFDqAqEOGg5iv865D1zu"
+      ]
+    },
+    {
+      "global_id": "3SJmxHnY_tHx$$NcJKZLUC",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 18625.035,
+        "ymin": 13066.631666700001,
+        "zmin": 0.0,
+        "xmax": 18626.41,
+        "ymax": 13066.7016667,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "2rNv1c8PqlHQ2ceS$zLgSD"
+      ],
+      "contained_in": [
+        "3pvKV5NrIjG9Wa986R1dCF"
+      ]
+    },
+    {
+      "global_id": "0ceVYxftFPIOkkeKx7yr0m",
+      "name": "Cavity wall (LB)",
+      "BoundingBox": {
+        "xmin": 29154.76,
+        "ymin": 10738.003132370739,
+        "zmin": -50.0,
+        "xmax": 29155.1,
+        "ymax": 10740.0000104337,
+        "zmax": -46.72
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "0iQz9rPmMZHO0AgpN9B8rY"
+      ],
+      "contained_in": [
+        "1LeQNAXPUoJAgWkp0JocLr",
+        "2VxfiRAMMiH84pa$rlzAqE"
+      ]
+    },
+    {
+      "global_id": "24Fuw7JoKSHegR5Bpno4Lz",
+      "name": "Cavity wall (non LB)",
+      "BoundingBox": {
+        "xmin": 29154.76,
+        "ymin": 10740.0000104,
+        "zmin": -50.0,
+        "xmax": 29155.0,
+        "ymax": 10741.33001038964,
+        "zmax": -46.72
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "3$_u6iMGLAHOEt$pvDJKOx",
+        "1clcpRyERTI9_1yW_3o$ll"
+      ],
+      "contained_in": [
+        "054EMIg9o8Hub8F2BA0kaC"
+      ]
+    },
+    {
+      "global_id": "1EQvpmSmG7Jxah2yxnbxZD",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 31204.95,
+        "ymin": 11848.99000001036,
+        "zmin": 0.0,
+        "xmax": 31205.05,
+        "ymax": 11850.0,
+        "zmax": 3.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "0wlHUzvRFtJhkhzba7LxvV",
+        "0g_1xC8wu_I87uafNIaIO$"
+      ],
+      "contained_in": [
+        "1BW61DtTEvH8C2pcfc8aGm"
+      ]
+    },
+    {
+      "global_id": "1ntqIMlK_AHwT7LZAmBFXo",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 23624.965,
+        "ymin": 17070.135,
+        "zmin": 0.0,
+        "xmax": 23625.035,
+        "ymax": 17075.29,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "0UiLa1w$4WI9ncINjeNS$G",
+        "2Ls8dPmTeTI9Wk8h2yTwg1"
+      ],
+      "contained_in": [
+        "2iY$gs6Hj$HRXDS6Mxisf7",
+        "0lrOAS27OvHP3bXq5Iw65q"
+      ]
+    },
+    {
+      "global_id": "3xKsbzsPNwGAnYcx3cPd4G",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 22314.965,
+        "ymin": 15196.835,
+        "zmin": 0.0,
+        "xmax": 22315.035,
+        "ymax": 15199.965,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "1iYI9CiClPHxdV2301tkPG"
+      ],
+      "contained_in": [
+        "1EF8ctgHr4HgdcxzwkNWP0",
+        "14EAB2Cnr2HANe91KK41$c"
+      ]
+    },
+    {
+      "global_id": "1iomcfQFhDIfAbGRzYRPF1",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 15124.965,
+        "ymin": 15200.0,
+        "zmin": 0.0,
+        "xmax": 15125.035,
+        "ymax": 15201.085,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "12d9rWR$coJBoZsazYf0bf",
+        "3KJptzkSKNHegh3GcllWLL",
+        "1_BpZg_JtqGRbcbvB0MGtM"
+      ],
+      "contained_in": [
+        "2oBi6NhxRrIRDHUbaO7Le4"
+      ]
+    },
+    {
+      "global_id": "3jt9Q_uj6QHeq3KyXRUTtn",
+      "name": "Building elements - light seperation wall",
+      "BoundingBox": {
+        "xmin": 7872.415,
+        "ymin": 15199.965,
+        "zmin": 0.0,
+        "xmax": 7875.0,
+        "ymax": 15200.035,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "3Hz1pe8arqJQVq_sBbnxtw",
+        "02icl4hgDpIwOgnGCN4grg",
+        "3DF3Yy4fQXJBCv$Dxun$VN"
+      ],
+      "contained_in": [
+        "33qWHuUc6PGujqWiZMdank",
+        "3kOfq3HwSTHOe4u1mkuFkp"
+      ]
+    },
+    {
+      "global_id": "0sSrlO9tOFHgk5C7TlTCjC",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 21374.965,
+        "ymin": 17070.035,
+        "zmin": 3500.0,
+        "xmax": 21375.035,
+        "ymax": 17075.34,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "0WrPPo0MjRJvLRr8a7Wz9B",
+        "3GWisO53nnH8TFPusq5sWR"
+      ],
+      "contained_in": [
+        "1x_lBR9FMAJOIAGmE63wQF"
+      ]
+    },
+    {
+      "global_id": "0BqIwaY_l7IvD1PTH0dcOb",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 16874.965,
+        "ymin": 17070.035,
+        "zmin": 3500.0,
+        "xmax": 16875.035,
+        "ymax": 17075.34,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "0ab7580LQ1IP1zArGrmhW1"
+      ],
+      "contained_in": [
+        "1rdmg5xTi0JfOz84Ezp2Un",
+        "2pUxpnaptyGh0VUlku5UIt"
+      ]
+    },
+    {
+      "global_id": "1BW61DtTEvH8C2pcfc8aGm",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 22314.965,
+        "ymin": 15196.835,
+        "zmin": 3500.0,
+        "xmax": 22315.035,
+        "ymax": 15199.965,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "0sSrlO9tOFHgk5C7TlTCjC",
+        "27Vf1ts_tBIgQYoldh848Q"
+      ],
+      "contained_in": [
+        "34pqmULO0XGu7UkHvwAZ1r",
+        "0yeZSZRUW0IfFY9zGbBsQq"
+      ]
+    },
+    {
+      "global_id": "0dsRrE1yKOIeL2UOjpuAs_",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 29204.95,
+        "ymin": 10789.949984998559,
+        "zmin": 3500.0,
+        "xmax": 29205.05,
+        "ymax": 10793.809985006441,
+        "zmax": 3503.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "14t$iTyJw2GPrqCAQqiQls",
+        "2b1VTgPatfG8U41n9$1x3A"
+      ],
+      "contained_in": [
+        "1EF8ctgHr4HgdcxzwkNWP0",
+        "02icl4hgDpIwOgnGCN4grg"
+      ]
+    },
+    {
+      "global_id": "3bXUpgcvJoHutIc7vy_Ovl",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 7874.86,
+        "ymin": 10739.76,
+        "zmin": 6950.0,
+        "xmax": 7896.28,
+        "ymax": 10740.1,
+        "zmax": 6953.55
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3tTEIoQszCGQhVM9t59JVV"
+      ],
+      "contained_in": [
+        "01qE6CMplBHQf1P5yy_Ygs",
+        "34pqmULO0XGu7UkHvwAZ1r"
+      ]
+    },
+    {
+      "global_id": "14t$iTyJw2GPrqCAQqiQls",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 29204.95,
+        "ymin": 10790.049984998559,
+        "zmin": 7000.0,
+        "xmax": 29205.05,
+        "ymax": 10793.809985006441,
+        "zmax": 7003.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "2hghIub4_6Jx1KhY3_7k54",
+        "1wUxdICfGvIv30pIKbpwnP",
+        "33NdFFsh7LJBxbCvZIgLS$"
+      ],
+      "contained_in": [
+        "1TBVUg_9O1Heh9Ajqx65cx",
+        "3bXUpgcvJoHutIc7vy_Ovl"
+      ]
+    },
+    {
+      "global_id": "1clcpRyERTI9_1yW_3o$ll",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 29204.95,
+        "ymin": 10790.049984998559,
+        "zmin": 10500.0,
+        "xmax": 29205.05,
+        "ymax": 10793.809985006441,
+        "zmax": 10501.19
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1$zmQrGxVIIPMdFeuD$yRh",
+        "1500DDghuxJP$Mg2u6owp0"
+      ],
+      "contained_in": [
+        "0fZvHMy1_LIuxlSD0ZdEe4"
+      ]
+    },
+    {
+      "global_id": "37cR5K57qfHwOfNCGVWaim",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 16875.05,
+        "ymin": 11999.95,
+        "zmin": -800.0,
+        "xmax": 16879.45,
+        "ymax": 12000.05,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "02icl4hgDpIwOgnGCN4grg",
+        "2qX8D8SPd$G8uvxBYroJ2M",
+        "27Vf1ts_tBIgQYoldh848Q"
+      ],
+      "contained_in": [
+        "322UstanPgJ8UCTSFWULjz"
+      ]
+    },
+    {
+      "global_id": "3cYmnA9EelJxHcdlbUTwZU",
+      "name": "Limestone wall (LB)",
+      "BoundingBox": {
+        "xmin": 31115.826261399998,
+        "ymin": 19909.95,
+        "zmin": -50.0,
+        "xmax": 31118.09093800531,
+        "ymax": 19910.050000066396,
+        "zmax": -46.72
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3dN04ATW35Hxhz2Mayi6lD"
+      ],
+      "contained_in": [
+        "01qE6CMplBHQf1P5yy_Ygs"
+      ]
+    },
+    {
+      "global_id": "3r1regmrbmGRlf060smRgq",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 7922.125,
+        "ymin": 22459.9,
+        "zmin": -50.0,
+        "xmax": 7925.0,
+        "ymax": 22460.24,
+        "zmax": -46.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "10n1ThpPkmJuxcSlyNttT9"
+      ],
+      "contained_in": [
+        "1iYI9CiClPHxdV2301tkPG"
+      ]
+    },
+    {
+      "global_id": "2xL7xwV9thG8EqpfAyCxBK",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 36516.8043921,
+        "ymin": 10546.44,
+        "zmin": 0.0,
+        "xmax": 36516.8743921,
+        "ymax": 10549.95,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "1FPwTtinBrHAz$dVFHAyVW",
+        "0hrIhmBFlGJgxA8Fqj1660",
+        "3L1Wmq83J$HAkaKYJerFVU"
+      ],
+      "contained_in": [
+        "15WxPxyfvnI8AMe1zoxvK2"
+      ]
+    },
+    {
+      "global_id": "3$lH6$geQ9H8s4NM0hSspX",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 16874.965,
+        "ymin": 17070.035,
+        "zmin": 0.0,
+        "xmax": 16875.035,
+        "ymax": 17075.29,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "1mIs6g10yZIvD_u9hWCy7p",
+        "0ab7580LQ1IP1zArGrmhW1",
+        "0LWXaaA4PNJuyZAIYd69DL"
+      ],
+      "contained_in": [
+        "0EeXZJqmyiIPSbgydWBfyA",
+        "3KJptzkSKNHegh3GcllWLL"
+      ]
+    },
+    {
+      "global_id": "3ATCRE1QXAI9LHL7j1VGSj",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 12374.965,
+        "ymin": 17070.035,
+        "zmin": 0.0,
+        "xmax": 12375.035,
+        "ymax": 17075.29,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "1500DDghuxJP$Mg2u6owp0",
+        "2wtmdPiT1RJACzLvafBFJ1"
+      ],
+      "contained_in": [
+        "3ezkCGBwNxJRGljtVqdhw1"
+      ]
+    },
+    {
+      "global_id": "3EaOgzTmd4GfBYc3OTklVb",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 10124.965,
+        "ymin": 15195.39,
+        "zmin": 0.0,
+        "xmax": 10125.035,
+        "ymax": 15199.965,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "1JQYar$HmaHQkVZQSGlt_c",
+        "054EMIg9o8Hub8F2BA0kaC"
+      ],
+      "contained_in": [
+        "07Qe_kkCMTHfqMGxBi7QKv",
+        "3cYmnA9EelJxHcdlbUTwZU"
+      ]
+    },
+    {
+      "global_id": "2k3GXDA6TwHfKwdt8owgKN",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 22315.035,
+        "ymin": 13599.965,
+        "zmin": 0.0,
+        "xmax": 22316.275,
+        "ymax": 13600.035,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "0DJnpeFZazGxH3BPJYujT1",
+        "3fDT6owHOrJvKk7j_GdKWc",
+        "1GwnC_LXQeIusE8v5B7VMH"
+      ],
+      "contained_in": [
+        "1naOnMy3sBHfWTQpMHpH_k"
+      ]
+    },
+    {
+      "global_id": "3ARhWldAq4GfjzbtoP5niZ",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 12374.965,
+        "ymin": 15196.835,
+        "zmin": 0.0,
+        "xmax": 12375.035,
+        "ymax": 15200.035,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "3Wh5izhscGHxiSHyTYxUv3"
+      ],
+      "contained_in": [
+        "1pkZOqFxMrGwf6Ui4FWU0p"
+      ]
+    },
+    {
+      "global_id": "0jz0XL4PP5GBWx7ugIZ8i8",
+      "name": "Limestone wall (LB)",
+      "BoundingBox": {
+        "xmin": 31115.7262614,
+        "ymin": 22457.4,
+        "zmin": -50.0,
+        "xmax": 31115.826261402555,
+        "ymax": 22459.9,
+        "zmax": -46.72
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "04JM0vYFGXIgglucY7BmJa",
+        "1o9wjsV295Ix6b2pKHOVex"
+      ],
+      "contained_in": [
+        "2DhEb8TFykGwIsFthOCrcN",
+        "1YuFAthX24Gvp_Ni3u44gf"
+      ]
+    },
+    {
+      "global_id": "0CXC91rK4BGQzuKeT_kIfG",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 21374.965,
+        "ymin": 17070.035,
+        "zmin": 0.0,
+        "xmax": 21375.035,
+        "ymax": 17075.29,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "1pkZOqFxMrGwf6Ui4FWU0p",
+        "3KJptzkSKNHegh3GcllWLL"
+      ],
+      "contained_in": [
+        "0Kx7WcQm__GO5WhM4zDFZE"
+      ]
+    },
+    {
+      "global_id": "1op3cxYQUHHeSy5Itb6Vk4",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 38899.2041024,
+        "ymin": 11771.2220679,
+        "zmin": 0.0,
+        "xmax": 38901.13989829756,
+        "ymax": 11771.2920679,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "054EMIg9o8Hub8F2BA0kaC"
+      ],
+      "contained_in": [
+        "2ZNV$uix3PH8AlCKLGFzBS"
+      ]
+    },
+    {
+      "global_id": "13A2Y9abFQIf17DoxXTiVW",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 31204.95,
+        "ymin": 14547.5999914086,
+        "zmin": 0.0,
+        "xmax": 31205.05,
+        "ymax": 14550.0499914,
+        "zmax": 3.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "0VVDpZAjW_Guzh_IUjB39w",
+        "1YuFAthX24Gvp_Ni3u44gf",
+        "2iYnqQc11MHQPIW7LGY9ao"
+      ],
+      "contained_in": [
+        "3wIqONHk7gJ8ouep8DK5Ld",
+        "1o9wjsV295Ix6b2pKHOVex"
+      ]
+    },
+    {
+      "global_id": "1psyWrckeNIAfnN5SK0Wn$",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 29205.05,
+        "ymin": 14549.9499914,
+        "zmin": 0.0,
+        "xmax": 29206.95,
+        "ymax": 14550.0499914,
+        "zmax": 3.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3bXUpgcvJoHutIc7vy_Ovl"
+      ],
+      "contained_in": [
+        "2iY$gs6Hj$HRXDS6Mxisf7"
+      ]
+    },
+    {
+      "global_id": "3qE4bVQPeSGAyLatbOcrqM",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 15125.035,
+        "ymin": 16249.965,
+        "zmin": 0.0,
+        "xmax": 15126.33213552774,
+        "ymax": 16250.035,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "2PHBopPaoyIvEQe7POoW1k"
+      ],
+      "contained_in": [
+        "2pF_GsotCVJw_tUbFqnzHr"
+      ]
+    },
+    {
+      "global_id": "1txWBWWlQhJhA3VopyHKA4",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 16422.1005277,
+        "ymin": 16248.985,
+        "zmin": 0.0,
+        "xmax": 16422.1705277,
+        "ymax": 16249.965,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "0iP0Fjo3rvJ9JuUI3UGzxR"
+      ],
+      "contained_in": [
+        "34pqmULO0XGu7UkHvwAZ1r"
+      ]
+    },
+    {
+      "global_id": "1VflvzVsroGh8lACjVt1SS",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 31203.05,
+        "ymin": 10789.950042600001,
+        "zmin": 3500.0,
+        "xmax": 31204.95,
+        "ymax": 10790.0500426,
+        "zmax": 3503.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "2hghIub4_6Jx1KhY3_7k54",
+        "11gPfmcjyqJhomqSGf7mXd"
+      ],
+      "contained_in": [
+        "0KrxenJxMiGgfScOQhLS$N"
+      ]
+    },
+    {
+      "global_id": "3XLysH4DB1H8nC8bw96CgY",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 29205.05,
+        "ymin": 12099.9500036,
+        "zmin": 3500.0,
+        "xmax": 29206.749999999796,
+        "ymax": 12100.0500036,
+        "zmax": 3503.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "2XHtXqqQVNGenSmWHWIrNp",
+        "2b1VTgPatfG8U41n9$1x3A",
+        "04JM0vYFGXIgglucY7BmJa"
+      ],
+      "contained_in": [
+        "0xHjcLFhXnHe7prYcRHcy6",
+        "1_BpZg_JtqGRbcbvB0MGtM"
+      ]
+    },
+    {
+      "global_id": "1j09OLXRkoIR2OtBjw3u4N",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 23624.965,
+        "ymin": 17070.135,
+        "zmin": 3500.0,
+        "xmax": 23625.035,
+        "ymax": 17075.34,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "0eFN2nXEjfGPE9RIOfLdDM",
+        "0xHjcLFhXnHe7prYcRHcy6"
+      ],
+      "contained_in": [
+        "0Nu8UoHhPjJAi0mBSJxYIN"
+      ]
+    },
+    {
+      "global_id": "0iP0Fjo3rvJ9JuUI3UGzxR",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 15124.965,
+        "ymin": 15196.835,
+        "zmin": 3500.0,
+        "xmax": 15125.035,
+        "ymax": 15199.965,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "1op3cxYQUHHeSy5Itb6Vk4",
+        "1s$E0j3fDgHePRF$KFAokQ",
+        "2OQRhzDL9vJOlqtL$ToOX5"
+      ],
+      "contained_in": [
+        "2sE_pevl9nGhCV4znjtO9R"
+      ]
+    },
+    {
+      "global_id": "0N2bhoafjXJxmwaLZt4t27",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 18765.035,
+        "ymin": 14133.2983333,
+        "zmin": 3500.0,
+        "xmax": 18766.27,
+        "ymax": 14133.368333299999,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "3BabKTInSOG99Pftm4s4ts"
+      ],
+      "contained_in": [
+        "2LaO0c542_HQ7TbdqkjaJG",
+        "1wUxdICfGvIv30pIKbpwnP"
+      ]
+    },
+    {
+      "global_id": "0koNVL7x94H9pfgZ8FcsFc",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 18765.035,
+        "ymin": 13066.631666700001,
+        "zmin": 3500.0,
+        "xmax": 18766.27,
+        "ymax": 13066.7016667,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "1YgousCfFMIudPvW7hLqEJ",
+        "2f0PLoF78$GhaQRAvZo$6e",
+        "1EQvpmSmG7Jxah2yxnbxZD"
+      ],
+      "contained_in": [
+        "3gcxRgNzVZIxGPpphje0vL"
+      ]
+    },
+    {
+      "global_id": "1TBVUg_9O1Heh9Ajqx65cx",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 22315.035,
+        "ymin": 13599.965,
+        "zmin": 3500.0,
+        "xmax": 22316.275,
+        "ymax": 13600.035,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "21cuGnKh0bHOhRG9r3W0gy",
+        "0EeXZJqmyiIPSbgydWBfyA",
+        "2OQRhzDL9vJOlqtL$ToOX5"
+      ],
+      "contained_in": [
+        "04ShSujTJFJAnDfdKCQ0gy",
+        "1j1C6txTDwJuHxAjYhvtRx"
+      ]
+    },
+    {
+      "global_id": "0ZjJnZz0CFHfr$2NVw5yxI",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 5189.76,
+        "ymin": 22447.79,
+        "zmin": 3450.0,
+        "xmax": 5190.1,
+        "ymax": 22460.24,
+        "zmax": 3453.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3Y_BFLDrzxGOr0JDMJdI5S"
+      ],
+      "contained_in": [
+        "2gg13ybkc7HPWyaPsuWoKa"
+      ]
+    },
+    {
+      "global_id": "0QCuly27ZXHANCxc_hTSMx",
+      "name": "Exterior wall timberwork",
+      "BoundingBox": {
+        "xmin": 33530.352882700005,
+        "ymin": 14109.9,
+        "zmin": 3450.0,
+        "xmax": 33530.7178827,
+        "ymax": 14116.093,
+        "zmax": 3453.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "0eFN2nXEjfGPE9RIOfLdDM",
+        "1jE1KIz4f1Hw6RFGAmuzRS"
+      ],
+      "contained_in": [
+        "2rNv1c8PqlHQ2ceS$zLgSD",
+        "2xL7xwV9thG8EqpfAyCxBK"
+      ]
+    },
+    {
+      "global_id": "23AEDxFEeLI800iHeqDPIu",
+      "name": "Limestone wall (LB)",
+      "BoundingBox": {
+        "xmin": 21374.95,
+        "ymin": 19950.88,
+        "zmin": 6950.0,
+        "xmax": 21375.05,
+        "ymax": 19959.9,
+        "zmax": 6953.55
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "17_jUpvvplI9PFGhhgaotf",
+        "3fDT6owHOrJvKk7j_GdKWc"
+      ],
+      "contained_in": [
+        "0g92fj_qH5JQ9SBNf0agxS",
+        "19uVQtXF5yIgap9IBz8FuB"
+      ]
+    },
+    {
+      "global_id": "0JGNzE3ztiHgWqijPNPU_w",
+      "name": "Limestone wall (LB)",
+      "BoundingBox": {
+        "xmin": 25975.05,
+        "ymin": 16399.950049550433,
+        "zmin": 6950.0,
+        "xmax": 25979.98,
+        "ymax": 16400.0500496,
+        "zmax": 6953.55
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "0ceVYxftFPIOkkeKx7yr0m",
+        "32Ng7uHrvDIgLrp7LGz_Lj"
+      ],
+      "contained_in": [
+        "3gy3$07b7uJeGmjrxsKNUA",
+        "15F7_RQRLcIAnFBKNCYJ61"
+      ]
+    },
+    {
+      "global_id": "2S8dWKw$7kGeinO8ryQAjM",
+      "name": "Limestone wall (LB)",
+      "BoundingBox": {
+        "xmin": 31104.9501118,
+        "ymin": 16400.250049550432,
+        "zmin": 6950.0,
+        "xmax": 31105.0501118,
+        "ymax": 16403.46004955043,
+        "zmax": 6953.55
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3jsTasR80rIhJQjEYQqYl1"
+      ],
+      "contained_in": [
+        "2Nw1KefSh$IPMTUeFUr_5U"
+      ]
+    },
+    {
+      "global_id": "2ef_qCGDDqIBgZ$wP7mXqy",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 33530.352882700005,
+        "ymin": 19950.54,
+        "zmin": 6950.0,
+        "xmax": 33530.6928827,
+        "ymax": 19960.14,
+        "zmax": 6953.55
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1E9PXwPbzZGuB3sHCnmb8R"
+      ],
+      "contained_in": [
+        "1O3RMJl1OTH8ppN6rgvg39",
+        "2OQRhzDL9vJOlqtL$ToOX5"
+      ]
+    },
+    {
+      "global_id": "3IV7LJvGFIJhN3EtHpDtGN",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 29205.05,
+        "ymin": 14549.9499914,
+        "zmin": 7000.0,
+        "xmax": 29206.95,
+        "ymax": 14550.0499914,
+        "zmax": 7003.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "04ShSujTJFJAnDfdKCQ0gy",
+        "3bqEePUxY6JQziJltAxSAN",
+        "14t$iTyJw2GPrqCAQqiQls"
+      ],
+      "contained_in": [
+        "01wZDSu5RIIO3GbHvsd7dl"
+      ]
+    },
+    {
+      "global_id": "32jTVMmv6xGxPXht3VHg2$",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 29205.05,
+        "ymin": 12099.9500036,
+        "zmin": 7000.0,
+        "xmax": 29206.749999999796,
+        "ymax": 12100.0500036,
+        "zmax": 7003.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "19uVQtXF5yIgap9IBz8FuB"
+      ],
+      "contained_in": [
+        "14t$iTyJw2GPrqCAQqiQls",
+        "1naOnMy3sBHfWTQpMHpH_k"
+      ]
+    },
+    {
+      "global_id": "0SuiQ65lh0HQW6YF5NTEei",
+      "name": "Limestone wall (LB)",
+      "BoundingBox": {
+        "xmin": 31104.95,
+        "ymin": 16398.20004954183,
+        "zmin": 6950.0,
+        "xmax": 31105.050000111758,
+        "ymax": 16399.9500496,
+        "zmax": 6953.55
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "02icl4hgDpIwOgnGCN4grg",
+        "3iyOwfRfYRHfwDXxM6yieZ",
+        "2Pq24$m6zkJQSo2jbJNvQe"
+      ],
+      "contained_in": [
+        "1psyWrckeNIAfnN5SK0Wn$"
+      ]
+    },
+    {
+      "global_id": "1yZgM61WifJfpXeddFQo4Q",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 31204.95,
+        "ymin": 14547.5999914086,
+        "zmin": 7000.0,
+        "xmax": 31205.05,
+        "ymax": 14550.0499914,
+        "zmax": 7003.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "2I0oIi9FU_HPuEBunahnxz"
+      ],
+      "contained_in": [
+        "2Ls8dPmTeTI9Wk8h2yTwg1",
+        "1KbpVG$QqXGPbBz3scmbAn"
+      ]
+    },
+    {
+      "global_id": "1qRATxN2wTHxtFneR_yG7J",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 29154.84999999944,
+        "ymin": 10739.7599835,
+        "zmin": 10500.0,
+        "xmax": 29157.250000001884,
+        "ymax": 10739.9999835,
+        "zmax": 10500.3
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3OJiefLKGLJAAKAqHOU6Zx"
+      ],
+      "contained_in": [
+        "1ntqIMlK_AHwT7LZAmBFXo"
+      ]
+    },
+    {
+      "global_id": "0Y$MWa8gIkGB2W2OPQoUIQ",
+      "name": "Exterior wall Non LB",
+      "BoundingBox": {
+        "xmin": 31255.0,
+        "ymin": 10739.9,
+        "zmin": 10650.0,
+        "xmax": 31255.05,
+        "ymax": 10743.9099999914,
+        "zmax": 10651.57
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "2x5ldlpZxyIhvO92Q8ApcG",
+        "3J0TyhOSlSGeSQPtSELRyL",
+        "01wZDSu5RIIO3GbHvsd7dl"
+      ],
+      "contained_in": [
+        "3yoynyqVuTJB4LX3YxzT7P",
+        "0g_1xC8wu_I87uafNIaIO$"
+      ]
+    },
+    {
+      "global_id": "3yoynyqVuTJB4LX3YxzT7P",
+      "name": "Exterior wall Non LB",
+      "BoundingBox": {
+        "xmin": 29154.949997300002,
+        "ymin": 11953.185499983516,
+        "zmin": 10650.0,
+        "xmax": 29154.999997302806,
+        "ymax": 11954.499999999887,
+        "zmax": 10651.57
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "3xKsbzsPNwGAnYcx3cPd4G"
+      ],
+      "contained_in": [
+        "3ATCRE1QXAI9LHL7j1VGSj",
+        "1BW61DtTEvH8C2pcfc8aGm"
+      ]
+    },
+    {
+      "global_id": "08yQEbajQXJfUI_3nI2d89",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 29205.05,
+        "ymin": 14549.9499914,
+        "zmin": 10500.0,
+        "xmax": 29206.95,
+        "ymax": 14550.0499914,
+        "zmax": 10501.19
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "0lrOAS27OvHP3bXq5Iw65q",
+        "2Ls8dPmTeTI9Wk8h2yTwg1"
+      ],
+      "contained_in": [
+        "3nsC7pbkTjGg6WzZa6xoSy",
+        "1txWBWWlQhJhA3VopyHKA4"
+      ]
+    },
+    {
+      "global_id": "1j4qtVIZ05Ifaqvm3maW6r",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 33528.17742981729,
+        "ymin": 10739.759999983517,
+        "zmin": 10500.0,
+        "xmax": 33530.5928827,
+        "ymax": 10740.1,
+        "zmax": 10500.3
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "2jVBdOhsliJQ_2_qtUmNhK",
+        "1mn2nuvIi1J8WUBuGPDIVq",
+        "1ntqIMlK_AHwT7LZAmBFXo"
+      ],
+      "contained_in": [
+        "3tTEIoQszCGQhVM9t59JVV",
+        "0CXC91rK4BGQzuKeT_kIfG"
+      ]
+    },
+    {
+      "global_id": "2Pq24$m6zkJQSo2jbJNvQe",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 29133.479999999992,
+        "ymin": 10739.7599835,
+        "zmin": 10500.0,
+        "xmax": 29155.000000000076,
+        "ymax": 10740.0999835,
+        "zmax": 10500.3
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1op3cxYQUHHeSy5Itb6Vk4"
+      ],
+      "contained_in": [
+        "0DJnpeFZazGxH3BPJYujT1",
+        "1jE1KIz4f1Hw6RFGAmuzRS"
+      ]
+    },
+    {
+      "global_id": "1KbpVG$QqXGPbBz3scmbAn",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 5190.1,
+        "ymin": 11999.95,
+        "zmin": -800.0,
+        "xmax": 5192.535,
+        "ymax": 12000.05,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "0fZvHMy1_LIuxlSD0ZdEe4",
+        "1j4qtVIZ05Ifaqvm3maW6r"
+      ],
+      "contained_in": [
+        "3IcE88IPinGhDhURnZWRxf"
+      ]
+    },
+    {
+      "global_id": "3fDT6owHOrJvKk7j_GdKWc",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 21374.95,
+        "ymin": 22446.047307169,
+        "zmin": -800.0,
+        "xmax": 21375.05,
+        "ymax": 22459.899959200255,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1j1C6txTDwJuHxAjYhvtRx",
+        "14EAB2Cnr2HANe91KK41$c",
+        "3ezkCGBwNxJRGljtVqdhw1"
+      ],
+      "contained_in": [
+        "2k3GXDA6TwHfKwdt8owgKN",
+        "0g1H_4vO_CHxEQ3RjrRJJ0"
+      ]
+    },
+    {
+      "global_id": "3zc05Hpvo0HQg3tLkSS0Wb",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 31204.95,
+        "ymin": 10783.26501038964,
+        "zmin": -800.0,
+        "xmax": 31205.05,
+        "ymax": 10789.9500104,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3EaOgzTmd4GfBYc3OTklVb",
+        "3o5rU1yyOjHgYAEysadq3G"
+      ],
+      "contained_in": [
+        "04ShSujTJFJAnDfdKCQ0gy",
+        "1j1C6txTDwJuHxAjYhvtRx"
+      ]
+    },
+    {
+      "global_id": "209ZPgDHfpJAYHYTKklSPk",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 33480.4028827,
+        "ymin": 14060.0500481,
+        "zmin": -800.0,
+        "xmax": 33480.502882700006,
+        "ymax": 14068.30004807329,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "2LaO0c542_HQ7TbdqkjaJG",
+        "0wcAFmuKSLIBWujK5Xn_sj"
+      ],
+      "contained_in": [
+        "0mIXQbWCIVJhuFRTxm34Om"
+      ]
+    },
+    {
+      "global_id": "2ZNV$uix3PH8AlCKLGFzBS",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 5189.76,
+        "ymin": 10489.76,
+        "zmin": -50.0,
+        "xmax": 5192.49,
+        "ymax": 10490.1,
+        "zmax": -46.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "08yQEbajQXJfUI_3nI2d89",
+        "3xKsbzsPNwGAnYcx3cPd4G"
+      ],
+      "contained_in": [
+        "32jTVMmv6xGxPXht3VHg2$",
+        "1M5zgEJC67GQZMHR4ZuAZu"
+      ]
+    },
+    {
+      "global_id": "21iN8skS_bGB9Cfdzzwnp5",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 5189.76,
+        "ymin": 22454.639,
+        "zmin": -50.0,
+        "xmax": 5190.1,
+        "ymax": 22460.24,
+        "zmax": -46.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3p34IxPKdzJBTNwd5Uz7aD"
+      ],
+      "contained_in": [
+        "3tSO4rgAajGAp7nf1RBvWN"
+      ]
+    },
+    {
+      "global_id": "2VxfiRAMMiH84pa$rlzAqE",
+      "name": "Cavity wall (LB)",
+      "BoundingBox": {
+        "xmin": 29154.76,
+        "ymin": 8831.388930716785,
+        "zmin": -50.0,
+        "xmax": 29159.621265794838,
+        "ymax": 8833.682197354829,
+        "zmax": -46.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "2VVYvOsDjzIuI7LmlcNuZm",
+        "2I0oIi9FU_HPuEBunahnxz",
+        "1JJz78sle5JOKakDc$BhHw"
+      ],
+      "contained_in": [
+        "1BW61DtTEvH8C2pcfc8aGm",
+        "01wZDSu5RIIO3GbHvsd7dl"
+      ]
+    },
+    {
+      "global_id": "1oczBtI5aoG8JrX1eHJZLp",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 30953.299999999996,
+        "ymin": 12099.950000100001,
+        "zmin": 0.0,
+        "xmax": 30954.999999999967,
+        "ymax": 12100.0500001,
+        "zmax": 3.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1_JH2zEO48GB1dE4pmgpaH",
+        "0UiLa1w$4WI9ncINjeNS$G"
+      ],
+      "contained_in": [
+        "3jt9Q_uj6QHeq3KyXRUTtn"
+      ]
+    },
+    {
+      "global_id": "0hrIhmBFlGJgxA8Fqj1660",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 40934.9,
+        "ymin": 14073.9898573,
+        "zmin": -50.0,
+        "xmax": 40935.24,
+        "ymax": 14082.51586744273,
+        "zmax": -46.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1mIs6g10yZIvD_u9hWCy7p",
+        "3ezkCGBwNxJRGljtVqdhw1",
+        "2y0GalNxV5IeVAxw4zbkI8"
+      ],
+      "contained_in": [
+        "3hSp8m8j$JH9FDrVvXL2to",
+        "2k3GXDA6TwHfKwdt8owgKN"
+      ]
+    },
+    {
+      "global_id": "322UstanPgJ8UCTSFWULjz",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 22174.965,
+        "ymin": 15196.835,
+        "zmin": 0.0,
+        "xmax": 22175.035,
+        "ymax": 15199.965,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "3Y_BFLDrzxGOr0JDMJdI5S",
+        "1oczBtI5aoG8JrX1eHJZLp"
+      ],
+      "contained_in": [
+        "381HcN2D5$JANdpcTlfNFz",
+        "0wcAFmuKSLIBWujK5Xn_sj"
+      ]
+    },
+    {
+      "global_id": "3X3e0ux5ROIuhWwapAu4jA",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 18624.965,
+        "ymin": 15196.835,
+        "zmin": 3500.0,
+        "xmax": 18625.035,
+        "ymax": 15199.965,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "1AD6VlF7EwHh$priC96WzX"
+      ],
+      "contained_in": [
+        "1KbpVG$QqXGPbBz3scmbAn"
+      ]
+    },
+    {
+      "global_id": "3XPLIChZ5LJPSqCqdaTprj",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 10124.965,
+        "ymin": 15195.34,
+        "zmin": 3500.0,
+        "xmax": 10125.035,
+        "ymax": 15199.965,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "2Nw1KefSh$IPMTUeFUr_5U"
+      ],
+      "contained_in": [
+        "3OJiefLKGLJAAKAqHOU6Zx",
+        "1AD6VlF7EwHh$priC96WzX"
+      ]
+    },
+    {
+      "global_id": "1mn2nuvIi1J8WUBuGPDIVq",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 31254.9999956,
+        "ymin": 11999.965,
+        "zmin": 3500.0,
+        "xmax": 31257.17544848708,
+        "ymax": 12000.035,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "3bqEePUxY6JQziJltAxSAN"
+      ],
+      "contained_in": [
+        "3ezkCGBwNxJRGljtVqdhw1",
+        "14t$iTyJw2GPrqCAQqiQls"
+      ]
+    },
+    {
+      "global_id": "0anQorWJNYHhVsgIzOuVdv",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 22174.965,
+        "ymin": 15196.835,
+        "zmin": 3500.0,
+        "xmax": 22175.035,
+        "ymax": 15199.965,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "0g_1xC8wu_I87uafNIaIO$",
+        "1O3RMJl1OTH8ppN6rgvg39",
+        "3ARhWldAq4GfjzbtoP5niZ"
+      ],
+      "contained_in": [
+        "1AD6VlF7EwHh$priC96WzX"
+      ]
+    },
+    {
+      "global_id": "2VAd6iBuE_J9$9cSYWk662",
+      "name": "Exterior wall timberwork",
+      "BoundingBox": {
+        "xmin": 33527.988206081216,
+        "ymin": 19959.9,
+        "zmin": 3450.0,
+        "xmax": 33530.7178827,
+        "ymax": 19960.265,
+        "zmax": 3453.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3zc05Hpvo0HQg3tLkSS0Wb",
+        "283WxjvhF1Ix11bPRF_o6e",
+        "1kREV0BC07GQdADz60iwjc"
+      ],
+      "contained_in": [
+        "2y0GalNxV5IeVAxw4zbkI8"
+      ]
+    },
+    {
+      "global_id": "0xHjcLFhXnHe7prYcRHcy6",
+      "name": "Exterior wall timberwork",
+      "BoundingBox": {
+        "xmin": 33430.4528827,
+        "ymin": 6889.735,
+        "zmin": 3450.0,
+        "xmax": 33438.20042981729,
+        "ymax": 6890.1,
+        "zmax": 3453.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "0Q2A1giR38Jg81uLRo3Nz7"
+      ],
+      "contained_in": [
+        "1JEVLaP$RxGvfeGh5QZpcb",
+        "27VRkYuP1hIBHWdWtSWcjO"
+      ]
+    },
+    {
+      "global_id": "1$Pv3SMMXcGvVzN4p7G0CX",
+      "name": "Exterior wall timberwork",
+      "BoundingBox": {
+        "xmin": 40927.59545288271,
+        "ymin": 14109.9,
+        "zmin": 3450.0,
+        "xmax": 40935.243,
+        "ymax": 14110.265,
+        "zmax": 3453.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3XPLIChZ5LJPSqCqdaTprj",
+        "0nxOWNnw4gH9H11NVllp$C",
+        "3zc05Hpvo0HQg3tLkSS0Wb"
+      ],
+      "contained_in": [
+        "3kOfq3HwSTHOe4u1mkuFkp"
+      ]
+    },
+    {
+      "global_id": "2OZLm2wbEWHQBIFJPbJgIH",
+      "name": "Exterior wall timberwork",
+      "BoundingBox": {
+        "xmin": 40934.9,
+        "ymin": 6889.735,
+        "zmin": 3450.0,
+        "xmax": 40935.265,
+        "ymax": 6897.485,
+        "zmax": 3453.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3r1regmrbmGRlf060smRgq"
+      ],
+      "contained_in": [
+        "3VPf7giFU0IPxA$GXP_eGu",
+        "2fq7yhimvlGhkTiZrkIbGP"
+      ]
+    },
+    {
+      "global_id": "3DF3Yy4fQXJBCv$Dxun$VN",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 29205.05,
+        "ymin": 14549.9499914,
+        "zmin": 3500.0,
+        "xmax": 29207.05,
+        "ymax": 14550.0499914,
+        "zmax": 3503.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "15WxPxyfvnI8AMe1zoxvK2",
+        "2VxfiRAMMiH84pa$rlzAqE"
+      ],
+      "contained_in": [
+        "01qE6CMplBHQf1P5yy_Ygs"
+      ]
+    },
+    {
+      "global_id": "2WxlJcqgXiHhEvEmREXH8o",
+      "name": "Limestone wall (LB)",
+      "BoundingBox": {
+        "xmin": 25974.95,
+        "ymin": 12100.05,
+        "zmin": 6950.0,
+        "xmax": 25975.05,
+        "ymax": 12104.25,
+        "zmax": 6953.55
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "33NdFFsh7LJBxbCvZIgLS$",
+        "054EMIg9o8Hub8F2BA0kaC"
+      ],
+      "contained_in": [
+        "2y0GalNxV5IeVAxw4zbkI8",
+        "3DF3Yy4fQXJBCv$Dxun$VN"
+      ]
+    },
+    {
+      "global_id": "1iYI9CiClPHxdV2301tkPG",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 7874.76,
+        "ymin": 19950.54,
+        "zmin": 6950.0,
+        "xmax": 7875.1,
+        "ymax": 19960.24,
+        "zmax": 6953.55
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "0Kx7WcQm__GO5WhM4zDFZE"
+      ],
+      "contained_in": [
+        "1qRATxN2wTHxtFneR_yG7J",
+        "0R5b0O$vRvGR$s$AEhrClR"
+      ]
+    },
+    {
+      "global_id": "3XwzCQb3NRGO_jxqLxmf9U",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 31255.0,
+        "ymin": 10739.76,
+        "zmin": 6950.0,
+        "xmax": 31257.41545288271,
+        "ymax": 10740.1,
+        "zmax": 6953.55
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3IV7LJvGFIJhN3EtHpDtGN",
+        "21cuGnKh0bHOhRG9r3W0gy",
+        "3xKsbzsPNwGAnYcx3cPd4G"
+      ],
+      "contained_in": [
+        "1E9PXwPbzZGuB3sHCnmb8R",
+        "0ZjJnZz0CFHfr$2NVw5yxI"
+      ]
+    },
+    {
+      "global_id": "0uKRArdZatHR60eJCvA5NS",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 31202.949999999997,
+        "ymin": 10789.950042600001,
+        "zmin": 7000.0,
+        "xmax": 31205.05,
+        "ymax": 10790.0500426,
+        "zmax": 7003.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1oczBtI5aoG8JrX1eHJZLp"
+      ],
+      "contained_in": [
+        "1JJz78sle5JOKakDc$BhHw"
+      ]
+    },
+    {
+      "global_id": "3pvKV5NrIjG9Wa986R1dCF",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 31204.95,
+        "ymin": 11848.99000004118,
+        "zmin": 7000.0,
+        "xmax": 31205.05,
+        "ymax": 11850.0,
+        "zmax": 7003.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3QwK4wQe8JJxmGbOoiU7L7"
+      ],
+      "contained_in": [
+        "1JQYar$HmaHQkVZQSGlt_c",
+        "3gcxRgNzVZIxGPpphje0vL"
+      ]
+    },
+    {
+      "global_id": "3bqEePUxY6JQziJltAxSAN",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 31202.949999999997,
+        "ymin": 10789.950042600001,
+        "zmin": 10500.0,
+        "xmax": 31205.05,
+        "ymax": 10790.0500426,
+        "zmax": 10501.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "2iYnqQc11MHQPIW7LGY9ao",
+        "0hrIhmBFlGJgxA8Fqj1660"
+      ],
+      "contained_in": [
+        "054EMIg9o8Hub8F2BA0kaC",
+        "15WxPxyfvnI8AMe1zoxvK2"
+      ]
+    },
+    {
+      "global_id": "0cwc6$r7niIwu8aKhmf$NE",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 7874.76,
+        "ymin": 19959.9,
+        "zmin": 10500.0,
+        "xmax": 7900.8954528827,
+        "ymax": 19960.24,
+        "zmax": 10500.3
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1p6CtTAKZxHxiCySI5_sQf",
+        "1BW61DtTEvH8C2pcfc8aGm"
+      ],
+      "contained_in": [
+        "0ZjJnZz0CFHfr$2NVw5yxI"
+      ]
+    },
+    {
+      "global_id": "27VRkYuP1hIBHWdWtSWcjO",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 33530.352882700005,
+        "ymin": 19950.54,
+        "zmin": 10500.0,
+        "xmax": 33530.6928827,
+        "ymax": 19960.14,
+        "zmax": 10500.3
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "2VdwqqNQafGOvNOFQcHL8x",
+        "3XwzCQb3NRGO_jxqLxmf9U",
+        "3pvKV5NrIjG9Wa986R1dCF"
+      ],
+      "contained_in": [
+        "3qE4bVQPeSGAyLatbOcrqM",
+        "3p34IxPKdzJBTNwd5Uz7aD"
+      ]
+    },
+    {
+      "global_id": "3jfwpkvggeGuUgcw6Q1WRN",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 7874.76,
+        "ymin": 10739.860000000108,
+        "zmin": 10500.0,
+        "xmax": 7875.1,
+        "ymax": 10749.36,
+        "zmax": 10500.3
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "2iYnqQc11MHQPIW7LGY9ao"
+      ],
+      "contained_in": [
+        "3fDT6owHOrJvKk7j_GdKWc",
+        "1mIs6g10yZIvD_u9hWCy7p"
+      ]
+    },
+    {
+      "global_id": "2hghIub4_6Jx1KhY3_7k54",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 33478.1274298173,
+        "ymin": 19909.949872,
+        "zmin": -800.0,
+        "xmax": 33480.4028827,
+        "ymax": 19910.049872,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "24Fuw7JoKSHegR5Bpno4Lz"
+      ],
+      "contained_in": [
+        "0ab7580LQ1IP1zArGrmhW1",
+        "2Pq24$m6zkJQSo2jbJNvQe"
+      ]
+    },
+    {
+      "global_id": "04ShSujTJFJAnDfdKCQ0gy",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 7924.94994738,
+        "ymin": 22449.589890509647,
+        "zmin": -800.0,
+        "xmax": 7925.04994738,
+        "ymax": 22459.899890400255,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1YuFAthX24Gvp_Ni3u44gf",
+        "2cxgMcsC2OIvi3TYtxx1z8"
+      ],
+      "contained_in": [
+        "09$gDPIZkEJQO8YnxbpeIN",
+        "3cj1ZB_n8uIuASwh0q2BbP"
+      ]
+    },
+    {
+      "global_id": "3ROL0hMKc4Hgit0zCHCwXv",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 16874.95,
+        "ymin": 22396.097284192,
+        "zmin": -800.0,
+        "xmax": 16875.05,
+        "ymax": 22409.9999362,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3rhRuQulnHHBg4ntrur0$7"
+      ],
+      "contained_in": [
+        "2moyA4uaMgJvQoP$TO9cBm"
+      ]
+    },
+    {
+      "global_id": "0S3Dwuj5ORJQxklhs6bDDY",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 31104.95,
+        "ymin": 22454.21000889106,
+        "zmin": -800.0,
+        "xmax": 31105.05,
+        "ymax": 22459.900008900255,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "17_jUpvvplI9PFGhhgaotf"
+      ],
+      "contained_in": [
+        "1TaPExgsyvIBKYgJOpFRgJ"
+      ]
+    },
+    {
+      "global_id": "1TaPExgsyvIBKYgJOpFRgJ",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 21375.05,
+        "ymin": 11999.95,
+        "zmin": -800.0,
+        "xmax": 21379.35,
+        "ymax": 12000.05,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "24Fuw7JoKSHegR5Bpno4Lz",
+        "1LeQNAXPUoJAgWkp0JocLr"
+      ],
+      "contained_in": [
+        "1FNoHgfFLMJulPBQS$5A59"
+      ]
+    },
+    {
+      "global_id": "38KPbBN7oRIOHJXb3Q6lMC",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 7874.95,
+        "ymin": 11998.59000000492,
+        "zmin": -800.0,
+        "xmax": 7875.05,
+        "ymax": 11999.95,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "15F7_RQRLcIAnFBKNCYJ61",
+        "3yoynyqVuTJB4LX3YxzT7P",
+        "1$zmQrGxVIIPMdFeuD$yRh"
+      ],
+      "contained_in": [
+        "0g1H_4vO_CHxEQ3RjrRJJ0"
+      ]
+    },
+    {
+      "global_id": "3BabKTInSOG99Pftm4s4ts",
+      "name": "Cavity wall (LB)",
+      "BoundingBox": {
+        "xmin": 33465.72227921099,
+        "ymin": 6889.836144317302,
+        "zmin": -50.0,
+        "xmax": 33465.77518999297,
+        "ymax": 6890.1,
+        "zmax": -46.72
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1W3T6mmG9qJRxB$zh5oUqJ",
+        "1j1C6txTDwJuHxAjYhvtRx",
+        "2XHtXqqQVNGenSmWHWIrNp"
+      ],
+      "contained_in": [
+        "209ZPgDHfpJAYHYTKklSPk",
+        "15WxPxyfvnI8AMe1zoxvK2"
+      ]
+    },
+    {
+      "global_id": "0wcAFmuKSLIBWujK5Xn_sj",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 31204.95,
+        "ymin": 11848.8900000192,
+        "zmin": 3500.0,
+        "xmax": 31205.05,
+        "ymax": 11850.0,
+        "zmax": 3503.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1VflvzVsroGh8lACjVt1SS",
+        "1dCvjP5VjCHAyEuTjXZ3cV"
+      ],
+      "contained_in": [
+        "1hPWm$nXDeIerpwI_d4GCo",
+        "1txWBWWlQhJhA3VopyHKA4"
+      ]
+    },
+    {
+      "global_id": "2f0PLoF78$GhaQRAvZo$6e",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 23660.0,
+        "ymin": 11965.0,
+        "zmin": 3500.0,
+        "xmax": 23662.065,
+        "ymax": 11965.07,
+        "zmax": 3503.27
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "3XLysH4DB1H8nC8bw96CgY"
+      ],
+      "contained_in": [
+        "3EaOgzTmd4GfBYc3OTklVb",
+        "0UpFDqAqEOGg5iv865D1zu"
+      ]
+    },
+    {
+      "global_id": "3GWisO53nnH8TFPusq5sWR",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 31165.6762639,
+        "ymin": 19960.0,
+        "zmin": 3450.0,
+        "xmax": 31166.0162639,
+        "ymax": 19962.64,
+        "zmax": 3453.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "0S3Dwuj5ORJQxklhs6bDDY"
+      ],
+      "contained_in": [
+        "2wtmdPiT1RJACzLvafBFJ1",
+        "3XLysH4DB1H8nC8bw96CgY"
+      ]
+    },
+    {
+      "global_id": "3OJiefLKGLJAAKAqHOU6Zx",
+      "name": "Timber wall (LB)",
+      "BoundingBox": {
+        "xmin": 12424.635,
+        "ymin": 6989.635,
+        "zmin": 3450.0,
+        "xmax": 12446.1054528827,
+        "ymax": 6990.02,
+        "zmax": 3453.81
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1TBVUg_9O1Heh9Ajqx65cx",
+        "2pUxpnaptyGh0VUlku5UIt"
+      ],
+      "contained_in": [
+        "3fDT6owHOrJvKk7j_GdKWc"
+      ]
+    },
+    {
+      "global_id": "15F7_RQRLcIAnFBKNCYJ61",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 31204.95,
+        "ymin": 14547.5999914086,
+        "zmin": 3500.0,
+        "xmax": 31205.05,
+        "ymax": 14549.9499914,
+        "zmax": 3503.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "0v2OrDD7BqJv2QWty1fGOV",
+        "2_9dg8GN1RJxG7TpV_k4jB",
+        "3J0TyhOSlSGeSQPtSELRyL"
+      ],
+      "contained_in": [
+        "00oZxkjymyIBhCBmXyRiqV",
+        "0S3Dwuj5ORJQxklhs6bDDY"
+      ]
+    },
+    {
+      "global_id": "35YjQtP$GtHRg9k21VgGK0",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 31139.660487636098,
+        "ymin": 22459.9,
+        "zmin": 6950.0,
+        "xmax": 31166.0162639,
+        "ymax": 22460.24,
+        "zmax": 6950.27
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1E9PXwPbzZGuB3sHCnmb8R",
+        "1j09OLXRkoIR2OtBjw3u4N",
+        "37rn8EF7izGeT$BXEGFUY5"
+      ],
+      "contained_in": [
+        "3XLysH4DB1H8nC8bw96CgY"
+      ]
+    },
+    {
+      "global_id": "2fM$fe6DU0GuiVljBHWxF6",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 5189.86,
+        "ymin": 10489.76,
+        "zmin": 6950.0,
+        "xmax": 5193.06,
+        "ymax": 10490.1,
+        "zmax": 6950.27
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "2rNv1c8PqlHQ2ceS$zLgSD"
+      ],
+      "contained_in": [
+        "02icl4hgDpIwOgnGCN4grg"
+      ]
+    },
+    {
+      "global_id": "11gPfmcjyqJhomqSGf7mXd",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 29155.0,
+        "ymin": 10739.76,
+        "zmin": 6950.0,
+        "xmax": 29157.1,
+        "ymax": 10740.0,
+        "zmax": 6953.55
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3kOfq3HwSTHOe4u1mkuFkp",
+        "1Zs6iYoMaeIxA0AusxNZP3"
+      ],
+      "contained_in": [
+        "2XHtXqqQVNGenSmWHWIrNp"
+      ]
+    },
+    {
+      "global_id": "1YuFAthX24Gvp_Ni3u44gf",
+      "name": "Exterior wall timberwork",
+      "BoundingBox": {
+        "xmin": 40934.9,
+        "ymin": 6889.735,
+        "zmin": 6950.0,
+        "xmax": 40935.265,
+        "ymax": 6897.485,
+        "zmax": 6950.35
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3iyOwfRfYRHfwDXxM6yieZ",
+        "0dsRrE1yKOIeL2UOjpuAs_",
+        "3IV7LJvGFIJhN3EtHpDtGN"
+      ],
+      "contained_in": [
+        "0lrOAS27OvHP3bXq5Iw65q"
+      ]
+    },
+    {
+      "global_id": "3IcE88IPinGhDhURnZWRxf",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 5189.76,
+        "ymin": 22447.79,
+        "zmin": 6950.0,
+        "xmax": 5190.1,
+        "ymax": 22460.24,
+        "zmax": 6950.27
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "2taGOtiB$AJORUUUKAbS8j",
+        "1hY7UjPgTeGB7sAOVJVqeO",
+        "33qWHuUc6PGujqWiZMdank"
+      ],
+      "contained_in": [
+        "2IH78HzNhNIgx$37lpP1Wb"
+      ]
+    },
+    {
+      "global_id": "3dN04ATW35Hxhz2Mayi6lD",
+      "name": "Exterior wall cavity wall",
+      "BoundingBox": {
+        "xmin": 31165.6762639,
+        "ymin": 19960.1,
+        "zmin": 6950.0,
+        "xmax": 31166.0162639,
+        "ymax": 19962.64,
+        "zmax": 6950.27
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3iyOwfRfYRHfwDXxM6yieZ",
+        "07Qe_kkCMTHfqMGxBi7QKv",
+        "283WxjvhF1Ix11bPRF_o6e"
+      ],
+      "contained_in": [
+        "3zWu48rFP6G9I0YF6kYWnv",
+        "1kGer5A6DCJAcLCrEFBWwQ"
+      ]
+    },
+    {
+      "global_id": "2wtmdPiT1RJACzLvafBFJ1",
+      "name": "Exterior wall timberwork",
+      "BoundingBox": {
+        "xmin": 40927.69545288271,
+        "ymin": 14109.9,
+        "zmin": 6950.0,
+        "xmax": 40935.243,
+        "ymax": 14110.265,
+        "zmax": 6950.35
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "0N2bhoafjXJxmwaLZt4t27",
+        "1vPBxIaDURGPuTNYDT1Ane"
+      ],
+      "contained_in": [
+        "0g1H_4vO_CHxEQ3RjrRJJ0",
+        "3yoynyqVuTJB4LX3YxzT7P"
+      ]
+    },
+    {
+      "global_id": "1hY7UjPgTeGB7sAOVJVqeO",
+      "name": "Exterior wall Non LB",
+      "BoundingBox": {
+        "xmin": 29154.950000000088,
+        "ymin": 10739.95,
+        "zmin": 10850.0,
+        "xmax": 29157.15,
+        "ymax": 10740.0,
+        "zmax": 10851.37
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "2VxfiRAMMiH84pa$rlzAqE",
+        "0eFN2nXEjfGPE9RIOfLdDM"
+      ],
+      "contained_in": [
+        "01wZDSu5RIIO3GbHvsd7dl"
+      ]
+    },
+    {
+      "global_id": "0m17ANV8mTHutIpsSMjZlj",
+      "name": "Exterior wall Non LB",
+      "BoundingBox": {
+        "xmin": 29154.9499885,
+        "ymin": 14597.35445514476,
+        "zmin": 10965.0,
+        "xmax": 29154.9999885,
+        "ymax": 14600.039955099308,
+        "zmax": 10966.255
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "1GwnC_LXQeIusE8v5B7VMH",
+        "0N2bhoafjXJxmwaLZt4t27",
+        "04JM0vYFGXIgglucY7BmJa"
+      ],
+      "contained_in": [
+        "1jE1KIz4f1Hw6RFGAmuzRS"
+      ]
+    },
+    {
+      "global_id": "3Wh5izhscGHxiSHyTYxUv3",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 31204.95,
+        "ymin": 11848.99000004118,
+        "zmin": 10500.0,
+        "xmax": 31205.05,
+        "ymax": 11850.0,
+        "zmax": 10501.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3QwK4wQe8JJxmGbOoiU7L7",
+        "1psyWrckeNIAfnN5SK0Wn$",
+        "0R65WYwEwuHAQHMX$4Y9$D"
+      ],
+      "contained_in": [
+        "1j09OLXRkoIR2OtBjw3u4N",
+        "11gPfmcjyqJhomqSGf7mXd"
+      ]
+    },
+    {
+      "global_id": "1FNoHgfFLMJulPBQS$5A59",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 29205.05,
+        "ymin": 12099.9500036,
+        "zmin": 10500.0,
+        "xmax": 29206.749999999796,
+        "ymax": 12100.0500036,
+        "zmax": 10501.19
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3gy3$07b7uJeGmjrxsKNUA",
+        "1qxZQJnXlxGeVcuDI1sZDI"
+      ],
+      "contained_in": [
+        "3xQj8kJYyAIubSAzi6cC4P",
+        "3Hz1pe8arqJQVq_sBbnxtw"
+      ]
+    },
+    {
+      "global_id": "1o9wjsV295Ix6b2pKHOVex",
+      "name": "Exterior wall finishing_roof extensions",
+      "BoundingBox": {
+        "xmin": 26024.8,
+        "ymin": 16345.600049550429,
+        "zmin": 10500.0,
+        "xmax": 26025.0,
+        "ymax": 16350.2000496,
+        "zmax": 10500.283482954052
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "1YuFAthX24Gvp_Ni3u44gf",
+        "32Ng7uHrvDIgLrp7LGz_Lj",
+        "3IV7LJvGFIJhN3EtHpDtGN"
+      ],
+      "contained_in": [
+        "3jsTasR80rIhJQjEYQqYl1",
+        "0uKRArdZatHR60eJCvA5NS"
+      ]
+    },
+    {
+      "global_id": "0uYgRJHVPyHvfZNmKil5Ws",
+      "name": "Exterior wall finishing_roof extensions",
+      "BoundingBox": {
+        "xmin": 31055.0001118,
+        "ymin": 16348.25004954183,
+        "zmin": 10500.0,
+        "xmax": 31055.2001118,
+        "ymax": 16350.1900496,
+        "zmax": 10500.283482954052
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "0wcAFmuKSLIBWujK5Xn_sj",
+        "1$Pv3SMMXcGvVzN4p7G0CX",
+        "2dU5hjh$1sG87kHq82tSpX"
+      ],
+      "contained_in": [
+        "0xHjcLFhXnHe7prYcRHcy6"
+      ]
+    },
+    {
+      "global_id": "0lrOAS27OvHP3bXq5Iw65q",
+      "name": "Exterior wall finishing_roof extensions",
+      "BoundingBox": {
+        "xmin": 26024.81,
+        "ymin": 12149.8,
+        "zmin": 10500.0,
+        "xmax": 26028.13,
+        "ymax": 12150.0,
+        "zmax": 10500.283482954052
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "38KPbBN7oRIOHJXb3Q6lMC"
+      ],
+      "contained_in": [
+        "14EAB2Cnr2HANe91KK41$c",
+        "3DF3Yy4fQXJBCv$Dxun$VN"
+      ]
+    },
+    {
+      "global_id": "3o5rU1yyOjHgYAEysadq3G",
+      "name": "Exterior wall finishing_roof extensions",
+      "BoundingBox": {
+        "xmin": 26024.81,
+        "ymin": 16350.0000496,
+        "zmin": 10500.0,
+        "xmax": 26030.23000011176,
+        "ymax": 16350.2000496,
+        "zmax": 10500.283482954052
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "34pqmULO0XGu7UkHvwAZ1r"
+      ],
+      "contained_in": [
+        "3xKsbzsPNwGAnYcx3cPd4G"
+      ]
+    },
+    {
+      "global_id": "01wZDSu5RIIO3GbHvsd7dl",
+      "name": "Concrete wall (LB)",
+      "BoundingBox": {
+        "xmin": 31204.95,
+        "ymin": 14547.5999914086,
+        "zmin": 10500.0,
+        "xmax": 31205.05,
+        "ymax": 14550.0499914,
+        "zmax": 10501.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3$_u6iMGLAHOEt$pvDJKOx"
+      ],
+      "contained_in": [
+        "3QwK4wQe8JJxmGbOoiU7L7",
+        "2rNv1c8PqlHQ2ceS$zLgSD"
+      ]
+    },
+    {
+      "global_id": "1PMmebNBNNGfrynBxAQxuU",
+      "name": "Exterior wall Non LB",
+      "BoundingBox": {
+        "xmin": 31252.849999988524,
+        "ymin": 14599.9999914,
+        "zmin": 10940.0,
+        "xmax": 31255.04,
+        "ymax": 14600.0499914,
+        "zmax": 10941.28
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "2S8dWKw$7kGeinO8ryQAjM",
+        "1VflvzVsroGh8lACjVt1SS"
+      ],
+      "contained_in": [
+        "2sE_pevl9nGhCV4znjtO9R"
+      ]
+    },
+    {
+      "global_id": "0R5b0O$vRvGR$s$AEhrClR",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 26025.0,
+        "ymin": 11999.95,
+        "zmin": -800.0,
+        "xmax": 26028.13,
+        "ymax": 12000.05,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "0ceVYxftFPIOkkeKx7yr0m",
+        "3gy3$07b7uJeGmjrxsKNUA"
+      ],
+      "contained_in": [
+        "2hghIub4_6Jx1KhY3_7k54",
+        "11gPfmcjyqJhomqSGf7mXd"
+      ]
+    },
+    {
+      "global_id": "0wlHUzvRFtJhkhzba7LxvV",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 16874.95,
+        "ymin": 8203.19558022185,
+        "zmin": -800.0,
+        "xmax": 16875.05,
+        "ymax": 8207.34792815,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3bqEePUxY6JQziJltAxSAN",
+        "2Pq24$m6zkJQSo2jbJNvQe"
+      ],
+      "contained_in": [
+        "0R65WYwEwuHAQHMX$4Y9$D",
+        "3EL1ABfYJtJ9rtby0Bbdda"
+      ]
+    },
+    {
+      "global_id": "14EAB2Cnr2HANe91KK41$c",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 21374.95,
+        "ymin": 8203.19558022185,
+        "zmin": -800.0,
+        "xmax": 21375.05,
+        "ymax": 8207.34792815,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "24Fuw7JoKSHegR5Bpno4Lz",
+        "2VxfiRAMMiH84pa$rlzAqE",
+        "04ShSujTJFJAnDfdKCQ0gy"
+      ],
+      "contained_in": [
+        "1ntqIMlK_AHwT7LZAmBFXo"
+      ]
+    },
+    {
+      "global_id": "2uVa9qY67$G94sSeNOJHvx",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 25874.95,
+        "ymin": 22454.18998221781,
+        "zmin": -800.0,
+        "xmax": 25875.05,
+        "ymax": 22459.899982200255,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1qRATxN2wTHxtFneR_yG7J",
+        "2iGMEEds3EHQYPxv_LOsdD",
+        "17_jUpvvplI9PFGhhgaotf"
+      ],
+      "contained_in": [
+        "2pF_GsotCVJw_tUbFqnzHr"
+      ]
+    },
+    {
+      "global_id": "1dCvjP5VjCHAyEuTjXZ3cV",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 40877.54545288271,
+        "ymin": 14059.950048100001,
+        "zmin": -800.0,
+        "xmax": 40885.0,
+        "ymax": 14060.0500481,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "24Fuw7JoKSHegR5Bpno4Lz"
+      ],
+      "contained_in": [
+        "3bqEePUxY6JQziJltAxSAN",
+        "0wcAFmuKSLIBWujK5Xn_sj"
+      ]
+    },
+    {
+      "global_id": "1s$E0j3fDgHePRF$KFAokQ",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 25874.95,
+        "ymin": 11842.205,
+        "zmin": -800.0,
+        "xmax": 25875.05,
+        "ymax": 11850.0,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1ntqIMlK_AHwT7LZAmBFXo",
+        "1dCvjP5VjCHAyEuTjXZ3cV",
+        "17_jUpvvplI9PFGhhgaotf"
+      ],
+      "contained_in": [
+        "3EaOgzTmd4GfBYc3OTklVb",
+        "33qWHuUc6PGujqWiZMdank"
+      ]
+    },
+    {
+      "global_id": "30a3rm2aX0HPkn7aWug0EF",
+      "name": "Separation wall (non LB)",
+      "BoundingBox": {
+        "xmin": 12425.93,
+        "ymin": 11998.25,
+        "zmin": 0.0,
+        "xmax": 12426.0,
+        "ymax": 11999.965,
+        "zmax": 3.23
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "0Kx7WcQm__GO5WhM4zDFZE"
+      ],
+      "contained_in": [
+        "0ab7580LQ1IP1zArGrmhW1"
+      ]
+    },
+    {
+      "global_id": "3xQj8kJYyAIubSAzi6cC4P",
+      "name": "Exterior wall Non LB",
+      "BoundingBox": {
+        "xmin": 41174.9,
+        "ymin": 22691.668,
+        "zmin": 3450.0,
+        "xmax": 41175.0,
+        "ymax": 22699.9,
+        "zmax": 3450.35
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1W3T6mmG9qJRxB$zh5oUqJ",
+        "1vErM7B9WwGPuSa3L_XV6s",
+        "37rn8EF7izGeT$BXEGFUY5"
+      ],
+      "contained_in": [
+        "3Hz1pe8arqJQVq_sBbnxtw"
+      ]
+    },
+    {
+      "global_id": "1rdmg5xTi0JfOz84Ezp2Un",
+      "name": "Timber wall (LB)",
+      "BoundingBox": {
+        "xmin": 12424.635,
+        "ymin": 10586.057,
+        "zmin": 3450.0,
+        "xmax": 12425.02,
+        "ymax": 10590.0,
+        "zmax": 3453.81
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "15sew9UBVjGfhfgjGvZQWS",
+        "0WrPPo0MjRJvLRr8a7Wz9B"
+      ],
+      "contained_in": [
+        "2DhEb8TFykGwIsFthOCrcN",
+        "23AEDxFEeLI800iHeqDPIu"
+      ]
+    },
+    {
+      "global_id": "2fq7yhimvlGhkTiZrkIbGP",
+      "name": "Wall (LB)",
+      "BoundingBox": {
+        "xmin": 12574.55,
+        "ymin": 10489.76,
+        "zmin": 3450.0,
+        "xmax": 12574.85,
+        "ymax": 10490.1,
+        "zmax": 3453.5
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "0yeZSZRUW0IfFY9zGbBsQq"
+      ],
+      "contained_in": [
+        "2iYnqQc11MHQPIW7LGY9ao",
+        "27Vf1ts_tBIgQYoldh848Q"
+      ]
+    },
+    {
+      "global_id": "0jnyf1OqFAGRAtL71znCmY",
+      "name": "Exterior wall Non LB",
+      "BoundingBox": {
+        "xmin": 31405.7762639,
+        "ymin": 22699.9,
+        "zmin": 3450.0,
+        "xmax": 31415.54548763609,
+        "ymax": 22700.0,
+        "zmax": 3450.35
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1rdmg5xTi0JfOz84Ezp2Un",
+        "3VPf7giFU0IPxA$GXP_eGu",
+        "3rhRuQulnHHBg4ntrur0$7"
+      ],
+      "contained_in": [
+        "0DJnpeFZazGxH3BPJYujT1"
+      ]
+    },
+    {
+      "global_id": "2Qjs_v3pwxGOR1Fn1kJNXU",
+      "name": "Exterior wall timberwork",
+      "BoundingBox": {
+        "xmin": 33430.4528827,
+        "ymin": 6889.735,
+        "zmin": 6950.0,
+        "xmax": 33438.20042981729,
+        "ymax": 6890.1,
+        "zmax": 6950.35
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "37cR5K57qfHwOfNCGVWaim",
+        "1wUxdICfGvIv30pIKbpwnP",
+        "2LaO0c542_HQ7TbdqkjaJG"
+      ],
+      "contained_in": [
+        "0XJg5$7cT1HOaEoxKS5TrQ",
+        "2f0PLoF78$GhaQRAvZo$6e"
+      ]
+    },
+    {
+      "global_id": "2VVYvOsDjzIuI7LmlcNuZm",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 17025.0,
+        "ymin": 8357.297928150001,
+        "zmin": -800.0,
+        "xmax": 17029.2,
+        "ymax": 8357.39792815,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3EL1ABfYJtJ9rtby0Bbdda",
+        "27_qgH_gjjHfuLRjE9oGmc",
+        "32Ng7uHrvDIgLrp7LGz_Lj"
+      ],
+      "contained_in": [
+        "0UTvxFujVXJxKeHiChYokJ"
+      ]
+    },
+    {
+      "global_id": "3hOLayo2FKIPq0Owpqjuav",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 31255.0,
+        "ymin": 11999.95,
+        "zmin": -800.0,
+        "xmax": 31264.63,
+        "ymax": 12000.05,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "0yeZSZRUW0IfFY9zGbBsQq"
+      ],
+      "contained_in": [
+        "1psyWrckeNIAfnN5SK0Wn$"
+      ]
+    },
+    {
+      "global_id": "34pqmULO0XGu7UkHvwAZ1r",
+      "name": "Foundation beam",
+      "BoundingBox": {
+        "xmin": 14506.16479203829,
+        "ymin": 144.815,
+        "zmin": -800.0,
+        "xmax": 14510.1638764,
+        "ymax": 145.185,
+        "zmax": -799.2
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "1kGer5A6DCJAcLCrEFBWwQ"
+      ],
+      "contained_in": [
+        "2IH78HzNhNIgx$37lpP1Wb"
+      ]
+    },
+    {
+      "global_id": "3p34IxPKdzJBTNwd5Uz7aD",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 25874.95,
+        "ymin": 16345.8,
+        "zmin": -800.0,
+        "xmax": 25875.05,
+        "ymax": 16350.0,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "3J0TyhOSlSGeSQPtSELRyL",
+        "1yZgM61WifJfpXeddFQo4Q",
+        "0eFN2nXEjfGPE9RIOfLdDM"
+      ],
+      "contained_in": [
+        "0nloUkMePlHBOwjWOtZUVb"
+      ]
+    },
+    {
+      "global_id": "2OQRhzDL9vJOlqtL$ToOX5",
+      "name": "Foundation",
+      "BoundingBox": {
+        "xmin": 31204.95,
+        "ymin": 16328.2699999914,
+        "zmin": -800.0,
+        "xmax": 31205.05,
+        "ymax": 16330.0,
+        "zmax": -799.43
+      },
+      "props": {
+        "load_bearing": true
+      },
+      "adjacent_to": [
+        "2pUxpnaptyGh0VUlku5UIt",
+        "2VxfiRAMMiH84pa$rlzAqE"
+      ],
+      "contained_in": [
+        "10n1ThpPkmJuxcSlyNttT9"
+      ]
+    },
+    {
+      "global_id": "381HcN2D5$JANdpcTlfNFz",
+      "name": "Wall (non LB)",
+      "BoundingBox": {
+        "xmin": 29154.76,
+        "ymin": 12119.95,
+        "zmin": -50.0,
+        "xmax": 29155.0,
+        "ymax": 12120.05,
+        "zmax": -46.5
+      },
+      "props": {
+        "load_bearing": false
+      },
+      "adjacent_to": [
+        "0jnyf1OqFAGRAtL71znCmY",
+        "0QCuly27ZXHANCxc_hTSMx"
+      ],
+      "contained_in": [
+        "1iYI9CiClPHxdV2301tkPG",
+        "322UstanPgJ8UCTSFWULjz"
+      ]
+    }
+  ],
+  "slabs": [
+    {
+      "global_id": "2cxgMcsC2OIvi3TYtxx1z8",
+      "name": "Hollow core slab 180",
+      "BoundingBox": {
+        "xmin": 40899.255,
+        "ymin": 22441.494499401102,
+        "zmin": -0.33,
+        "xmax": 40935.0,
+        "ymax": 22459.99949908967,
+        "zmax": 0.0
+      },
+      "props": {
+        "load_bearing": true
+      }
+    },
+    {
+      "global_id": "3SQWsCfiSEG89C4mGi0lQ2",
+      "name": "Hollow core slab 220",
+      "BoundingBox": {
+        "xmin": 5190.0,
+        "ymin": 10486.21,
+        "zmin": 3499.73,
+        "xmax": 5225.745,
+        "ymax": 10501.97,
+        "zmax": 3500.0
+      },
+      "props": {
+        "load_bearing": true
+      }
+    },
+    {
+      "global_id": "02icl4hgDpIwOgnGCN4grg",
+      "name": "Hollow core slab finishing 220",
+      "BoundingBox": {
+        "xmin": 33504.79742981731,
+        "ymin": 19950.77999983762,
+        "zmin": 6999.77,
+        "xmax": 33530.4528827,
+        "ymax": 19960.0,
+        "zmax": 7000.0
+      },
+      "props": {
+        "load_bearing": false
+      }
+    },
+    {
+      "global_id": "1vErM7B9WwGPuSa3L_XV6s",
+      "name": "Roof",
+      "BoundingBox": {
+        "xmin": 40925.30077626391,
+        "ymin": 22451.72,
+        "zmin": 3449.82,
+        "xmax": 40935.0,
+        "ymax": 22460.0,
+        "zmax": 3450.08
+      },
+      "props": {
+        "load_bearing": true
+      }
+    },
+    {
+      "global_id": "32Ng7uHrvDIgLrp7LGz_Lj",
+      "name": "Roof",
+      "BoundingBox": {
+        "xmin": 5190.0,
+        "ymin": 10490.00000149115,
+        "zmin": 6949.82,
+        "xmax": 5215.9750001118,
+        "ymax": 10501.970001498501,
+        "zmax": 6950.27
+      },
+      "props": {
+        "load_bearing": true
+      }
+    },
+    {
+      "global_id": "3tSO4rgAajGAp7nf1RBvWN",
+      "name": "Roof",
+      "BoundingBox": {
+        "xmin": 33530.4528827,
+        "ymin": 6890.0,
+        "zmin": 6949.82,
+        "xmax": 33537.85742981729,
+        "ymax": 6897.22,
+        "zmax": 6950.27
+      },
+      "props": {
+        "load_bearing": true
+      }
+    },
+    {
+      "global_id": "0mIXQbWCIVJhuFRTxm34Om",
+      "name": "Roof",
+      "BoundingBox": {
+        "xmin": 31437.783858089602,
+        "ymin": 10475.31404490131,
+        "zmin": 8279.55,
+        "xmax": 31463.7190076365,
+        "ymax": 10481.9999551,
+        "zmax": 8280.0
+      },
+      "props": {
+        "load_bearing": true
+      }
+    },
+    {
+      "global_id": "2rNv1c8PqlHQ2ceS$zLgSD",
+      "name": "Roof",
+      "BoundingBox": {
+        "xmin": 31252.12362394068,
+        "ymin": 10740.000044055942,
+        "zmin": 12139.55,
+        "xmax": 31254.2238478,
+        "ymax": 10743.86004401101,
+        "zmax": 12140.0
+      },
+      "props": {
+        "load_bearing": true
+      }
+    },
+    {
+      "global_id": "1M5zgEJC67GQZMHR4ZuAZu",
+      "name": "Roof",
+      "BoundingBox": {
+        "xmin": 7975.0,
+        "ymin": 19850.98,
+        "zmin": 10519.978,
+        "xmax": 8000.4554528827,
+        "ymax": 19860.0,
+        "zmax": 10520.17
+      },
+      "props": {
+        "load_bearing": false
+      }
+    }
+  ],
+  "rooms": [
+    {
+      "global_id": "0fZvHMy1_LIuxlSD0ZdEe4",
+      "name": "00.03",
+      "BoundingBox": {
+        "xmin": 23660.0,
+        "ymin": 11963.63494995007,
+        "zmin": 0.0,
+        "xmax": 23669.77045280023,
+        "ymax": 11975.394949950101,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "1jE1KIz4f1Hw6RFGAmuzRS",
+      "name": "01.01",
+      "BoundingBox": {
+        "xmin": 7975.0,
+        "ymin": 15235.0,
+        "zmin": 3500.0,
+        "xmax": 7990.615,
+        "ymax": 15236.8,
+        "zmax": 3503.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2iGMEEds3EHQYPxv_LOsdD",
+      "name": "01.02",
+      "BoundingBox": {
+        "xmin": 23659.9998666,
+        "ymin": 12035.000153746147,
+        "zmin": 3500.0,
+        "xmax": 23669.77031964735,
+        "ymax": 12045.32515367,
+        "zmax": 3503.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2IH78HzNhNIgx$37lpP1Wb",
+      "name": "00.02",
+      "BoundingBox": {
+        "xmin": 7975.0,
+        "ymin": 15235.0,
+        "zmin": 0.0,
+        "xmax": 7990.615,
+        "ymax": 15236.8,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0EeXZJqmyiIPSbgydWBfyA",
+      "name": "00.01",
+      "BoundingBox": {
+        "xmin": 7830.0,
+        "ymin": 10243.72566964279,
+        "zmin": 0.0,
+        "xmax": 7855.5997278471,
+        "ymax": 10251.714967632392,
+        "zmax": 3.45
+      },
+      "props": {}
+    },
+    {
+      "global_id": "283WxjvhF1Ix11bPRF_o6e",
+      "name": "01.03",
+      "BoundingBox": {
+        "xmin": 12410.0,
+        "ymin": 10586.40000739257,
+        "zmin": 3500.0,
+        "xmax": 12431.0204528827,
+        "ymax": 10591.49000734391,
+        "zmax": 3503.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3nsC7pbkTjGg6WzZa6xoSy",
+      "name": "00.04",
+      "BoundingBox": {
+        "xmin": 20105.0,
+        "ymin": 15161.87,
+        "zmin": 0.0,
+        "xmax": 20107.035,
+        "ymax": 15165.0,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2jVBdOhsliJQ_2_qtUmNhK",
+      "name": "01.04",
+      "BoundingBox": {
+        "xmin": 20105.0,
+        "ymin": 15161.87,
+        "zmin": 3500.0,
+        "xmax": 20107.035,
+        "ymax": 15165.0,
+        "zmax": 3503.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "09$gDPIZkEJQO8YnxbpeIN",
+      "name": "00.18",
+      "BoundingBox": {
+        "xmin": 15160.0,
+        "ymin": 12035.0,
+        "zmin": 0.0,
+        "xmax": 15163.43,
+        "ymax": 12039.18,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2oBi6NhxRrIRDHUbaO7Le4",
+      "name": "01.17",
+      "BoundingBox": {
+        "xmin": 10085.2,
+        "ymin": 10590.0,
+        "zmin": 3500.0,
+        "xmax": 10090.0,
+        "ymax": 10594.575,
+        "zmax": 3503.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "1LeQNAXPUoJAgWkp0JocLr",
+      "name": "01.14",
+      "BoundingBox": {
+        "xmin": 33530.4528827,
+        "ymin": 14002.98,
+        "zmin": 3500.0,
+        "xmax": 33537.75742981729,
+        "ymax": 14010.0,
+        "zmax": 3503.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2DhEb8TFykGwIsFthOCrcN",
+      "name": "01.20",
+      "BoundingBox": {
+        "xmin": 16835.57,
+        "ymin": 22354.745,
+        "zmin": 3500.0,
+        "xmax": 16840.0,
+        "ymax": 22360.0,
+        "zmax": 3503.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0UTvxFujVXJxKeHiChYokJ",
+      "name": "01.19",
+      "BoundingBox": {
+        "xmin": 21335.57,
+        "ymin": 22354.745,
+        "zmin": 3500.0,
+        "xmax": 21340.0,
+        "ymax": 22360.0,
+        "zmax": 3503.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "19vc3Z0YDkIAym$YShu$2B",
+      "name": "00.19",
+      "BoundingBox": {
+        "xmin": 10085.2,
+        "ymin": 10590.0,
+        "zmin": 0.0,
+        "xmax": 10090.0,
+        "ymax": 10594.575,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2iY$gs6Hj$HRXDS6Mxisf7",
+      "name": "02.03",
+      "BoundingBox": {
+        "xmin": 21425.0,
+        "ymin": 19850.98009670316,
+        "zmin": 7000.0,
+        "xmax": 21434.62922390718,
+        "ymax": 19860.0000968,
+        "zmax": 7003.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2LaO0c542_HQ7TbdqkjaJG",
+      "name": "00.23",
+      "BoundingBox": {
+        "xmin": 40827.69545286667,
+        "ymin": 14110.0,
+        "zmin": 0.0,
+        "xmax": 40835.0,
+        "ymax": 14118.25,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0R65WYwEwuHAQHMX$4Y9$D",
+      "name": "01.18",
+      "BoundingBox": {
+        "xmin": 12335.635,
+        "ymin": 22354.745,
+        "zmin": 3500.0,
+        "xmax": 12340.0,
+        "ymax": 22360.0,
+        "zmax": 3503.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0WrPPo0MjRJvLRr8a7Wz9B",
+      "name": "00.26",
+      "BoundingBox": {
+        "xmin": 33530.4528667,
+        "ymin": 10600.0,
+        "zmin": 0.0,
+        "xmax": 33535.75161793578,
+        "ymax": 10603.41,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3QwK4wQe8JJxmGbOoiU7L7",
+      "name": "00.21",
+      "BoundingBox": {
+        "xmin": 16835.57,
+        "ymin": 22354.745,
+        "zmin": 0.0,
+        "xmax": 16840.0,
+        "ymax": 22360.0,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2sE_pevl9nGhCV4znjtO9R",
+      "name": "00.20",
+      "BoundingBox": {
+        "xmin": 12335.635,
+        "ymin": 22354.745,
+        "zmin": 0.0,
+        "xmax": 12340.0,
+        "ymax": 22360.0,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "1E9PXwPbzZGuB3sHCnmb8R",
+      "name": "00.22",
+      "BoundingBox": {
+        "xmin": 21335.57,
+        "ymin": 22354.745,
+        "zmin": 0.0,
+        "xmax": 21340.0,
+        "ymax": 22360.0,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "10n1ThpPkmJuxcSlyNttT9",
+      "name": "01.06",
+      "BoundingBox": {
+        "xmin": 7830.0,
+        "ymin": 10243.72566964279,
+        "zmin": 3500.0,
+        "xmax": 7855.5997278471,
+        "ymax": 10249.9999676,
+        "zmax": 3503.5
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3$_u6iMGLAHOEt$pvDJKOx",
+      "name": "01.13",
+      "BoundingBox": {
+        "xmin": 23587.82,
+        "ymin": 17105.0,
+        "zmin": 3500.0,
+        "xmax": 23590.0,
+        "ymax": 17110.255,
+        "zmax": 3503.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3wIqONHk7gJ8ouep8DK5Ld",
+      "name": "00.24",
+      "BoundingBox": {
+        "xmin": 40830.75180439207,
+        "ymin": 10496.49,
+        "zmin": 0.0,
+        "xmax": 40835.0,
+        "ymax": 10500.0,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "19uVQtXF5yIgap9IBz8FuB",
+      "name": "00.13",
+      "BoundingBox": {
+        "xmin": 12337.82,
+        "ymin": 11963.625,
+        "zmin": 0.0,
+        "xmax": 12340.0,
+        "ymax": 11968.2,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "1kGer5A6DCJAcLCrEFBWwQ",
+      "name": "00.05",
+      "BoundingBox": {
+        "xmin": 7872.415,
+        "ymin": 15235.0,
+        "zmin": 0.0,
+        "xmax": 7875.0,
+        "ymax": 15242.125,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0WQnMJ9wzZGgWwnktkk9pr",
+      "name": "00.22",
+      "BoundingBox": {
+        "xmin": 23587.82,
+        "ymin": 17105.0,
+        "zmin": 0.0,
+        "xmax": 23590.0,
+        "ymax": 17110.255,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2moyA4uaMgJvQoP$TO9cBm",
+      "name": "00.25",
+      "BoundingBox": {
+        "xmin": 36511.54258770793,
+        "ymin": 10496.49,
+        "zmin": 0.0,
+        "xmax": 36516.8043921,
+        "ymax": 10500.0,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "27Vf1ts_tBIgQYoldh848Q",
+      "name": "00.06",
+      "BoundingBox": {
+        "xmin": 20033.765,
+        "ymin": 12035.0,
+        "zmin": 0.0,
+        "xmax": 20035.0,
+        "ymax": 12035.996666666668,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "1EF8ctgHr4HgdcxzwkNWP0",
+      "name": "00.07",
+      "BoundingBox": {
+        "xmin": 20033.765,
+        "ymin": 14168.3333333,
+        "zmin": 0.0,
+        "xmax": 20035.0,
+        "ymax": 14169.329999966667,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0prJSdTOFKHRewMSnru_oj",
+      "name": "00.08",
+      "BoundingBox": {
+        "xmin": 20033.765,
+        "ymin": 13101.6666667,
+        "zmin": 0.0,
+        "xmax": 20035.0,
+        "ymax": 13102.663333366669,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2y0GalNxV5IeVAxw4zbkI8",
+      "name": "01.05",
+      "BoundingBox": {
+        "xmin": 7872.415,
+        "ymin": 15235.0,
+        "zmin": 3500.0,
+        "xmax": 7875.0,
+        "ymax": 15242.125,
+        "zmax": 3503.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "27_qgH_gjjHfuLRjE9oGmc",
+      "name": "01.12",
+      "BoundingBox": {
+        "xmin": 12337.82,
+        "ymin": 10590.0,
+        "zmin": 3500.0,
+        "xmax": 12340.0,
+        "ymax": 10594.575,
+        "zmax": 3503.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0b0zAaneDWHQQaL9rFInQV",
+      "name": "00.17",
+      "BoundingBox": {
+        "xmin": 15087.32,
+        "ymin": 12035.0,
+        "zmin": 0.0,
+        "xmax": 15090.0,
+        "ymax": 12038.13,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3ezkCGBwNxJRGljtVqdhw1",
+      "name": "00.09",
+      "BoundingBox": {
+        "xmin": 23588.76,
+        "ymin": 13635.0,
+        "zmin": 0.0,
+        "xmax": 23590.0,
+        "ymax": 13636.53,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "1p6CtTAKZxHxiCySI5_sQf",
+      "name": "00.10",
+      "BoundingBox": {
+        "xmin": 23588.76,
+        "ymin": 12035.0,
+        "zmin": 0.0,
+        "xmax": 23590.0,
+        "ymax": 12036.53,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3LckAKB0PlJv7YyoT7YYHY",
+      "name": "01.15",
+      "BoundingBox": {
+        "xmin": 15087.32,
+        "ymin": 12035.0,
+        "zmin": 3500.0,
+        "xmax": 15090.0,
+        "ymax": 12038.13,
+        "zmax": 3503.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0B2Sk4_jbzGQKwjCnjuKpz",
+      "name": "02.01",
+      "BoundingBox": {
+        "xmin": 31254.90000049985,
+        "ymin": 16344.48999469169,
+        "zmin": 7000.0,
+        "xmax": 31257.175453383392,
+        "ymax": 16353.50999470529,
+        "zmax": 7003.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2dU5hjh$1sG87kHq82tSpX",
+      "name": "02.04",
+      "BoundingBox": {
+        "xmin": 7975.0,
+        "ymin": 10840.0,
+        "zmin": 7000.0,
+        "xmax": 7988.35,
+        "ymax": 10849.02,
+        "zmax": 7003.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0LbajNUVxrIfyw6onWBz88",
+      "name": "00.11",
+      "BoundingBox": {
+        "xmin": 40833.06420410244,
+        "ymin": 11770.05084583212,
+        "zmin": 0.0,
+        "xmax": 40835.0,
+        "ymax": 11771.2220679,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "1$zmQrGxVIIPMdFeuD$yRh",
+      "name": "00.12",
+      "BoundingBox": {
+        "xmin": 40833.06420410244,
+        "ymin": 11841.2220679,
+        "zmin": 0.0,
+        "xmax": 40835.0,
+        "ymax": 11843.39084583212,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "21Ecj3bStqIugT0NdETlHO",
+      "name": "01.07",
+      "BoundingBox": {
+        "xmin": 20033.765,
+        "ymin": 12035.0,
+        "zmin": 3500.0,
+        "xmax": 20035.0,
+        "ymax": 12035.996666666668,
+        "zmax": 3503.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0v2OrDD7BqJv2QWty1fGOV",
+      "name": "01.09",
+      "BoundingBox": {
+        "xmin": 20033.765,
+        "ymin": 13101.6666667,
+        "zmin": 3500.0,
+        "xmax": 20035.0,
+        "ymax": 13102.663333366669,
+        "zmax": 3503.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "1GwnC_LXQeIusE8v5B7VMH",
+      "name": "01.08",
+      "BoundingBox": {
+        "xmin": 20033.765,
+        "ymin": 14168.3333333,
+        "zmin": 3500.0,
+        "xmax": 20035.0,
+        "ymax": 14169.329999966667,
+        "zmax": 3503.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0KrxenJxMiGgfScOQhLS$N",
+      "name": "01.16",
+      "BoundingBox": {
+        "xmin": 15160.0,
+        "ymin": 12035.0,
+        "zmin": 3500.0,
+        "xmax": 15163.43,
+        "ymax": 12038.13,
+        "zmax": 3503.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "1_JH2zEO48GB1dE4pmgpaH",
+      "name": "01.11",
+      "BoundingBox": {
+        "xmin": 23588.76,
+        "ymin": 13635.0,
+        "zmin": 3500.0,
+        "xmax": 23590.0,
+        "ymax": 13636.53,
+        "zmax": 3503.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0UiLa1w$4WI9ncINjeNS$G",
+      "name": "01.10",
+      "BoundingBox": {
+        "xmin": 23588.76,
+        "ymin": 12035.0,
+        "zmin": 3500.0,
+        "xmax": 23590.0,
+        "ymax": 12036.53,
+        "zmax": 3503.3
+      },
+      "props": {}
+    },
+    {
+      "global_id": "054EMIg9o8Hub8F2BA0kaC",
+      "name": "00.16",
+      "BoundingBox": {
+        "xmin": 33428.18819009469,
+        "ymin": 19960.0,
+        "zmin": 0.0,
+        "xmax": 33430.4528667,
+        "ymax": 19962.4,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "07ejQqCYZcHQi$4f3fz5Ad",
+      "name": "00.15",
+      "BoundingBox": {
+        "xmin": 31153.1,
+        "ymin": 8041.72438084,
+        "zmin": 0.0,
+        "xmax": 31155.0,
+        "ymax": 8044.42265646952,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "12d9rWR$coJBoZsazYf0bf",
+      "name": "00.27",
+      "BoundingBox": {
+        "xmin": 29255.0,
+        "ymin": 12048.79001419611,
+        "zmin": 0.0,
+        "xmax": 29256.90000000661,
+        "ymax": 12050.0000142,
+        "zmax": 3.3000000000000003
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2XHtXqqQVNGenSmWHWIrNp",
+      "name": "02.02",
+      "BoundingBox": {
+        "xmin": 7830.0,
+        "ymin": 10243.72566964279,
+        "zmin": 7000.0,
+        "xmax": 7855.5997278471,
+        "ymax": 10249.9999676,
+        "zmax": 7000.77
+      },
+      "props": {}
+    }
+  ],
+  "doors": [
+    {
+      "global_id": "0yeZSZRUW0IfFY9zGbBsQq",
+      "name": "Type 00.02",
+      "BoundingBox": {
+        "xmin": 21995.0,
+        "ymin": 17069.955,
+        "zmin": 0.0,
+        "xmax": 21996.01,
+        "ymax": 17070.045,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2pF_GsotCVJw_tUbFqnzHr",
+      "name": "Type 00.02",
+      "BoundingBox": {
+        "xmin": 17495.0,
+        "ymin": 17069.955,
+        "zmin": 0.0,
+        "xmax": 17496.01,
+        "ymax": 17070.045,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0nloUkMePlHBOwjWOtZUVb",
+      "name": "Type 00.02",
+      "BoundingBox": {
+        "xmin": 12995.0,
+        "ymin": 17069.955,
+        "zmin": 0.0,
+        "xmax": 12996.01,
+        "ymax": 17070.045,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "17_jUpvvplI9PFGhhgaotf",
+      "name": "Type 00.02",
+      "BoundingBox": {
+        "xmin": 8495.0,
+        "ymin": 17069.955,
+        "zmin": 0.0,
+        "xmax": 8496.01,
+        "ymax": 17070.045,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2PHBopPaoyIvEQe7POoW1k",
+      "name": "Type 01.02",
+      "BoundingBox": {
+        "xmin": 14003.99,
+        "ymin": 15199.955,
+        "zmin": 3500.0,
+        "xmax": 14005.0,
+        "ymax": 15200.045,
+        "zmax": 3502.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3Hz1pe8arqJQVq_sBbnxtw",
+      "name": "Type 01.02",
+      "BoundingBox": {
+        "xmin": 11753.99,
+        "ymin": 15199.955,
+        "zmin": 3500.0,
+        "xmax": 11755.0,
+        "ymax": 15200.045,
+        "zmax": 3502.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3tTEIoQszCGQhVM9t59JVV",
+      "name": "Type 01.02",
+      "BoundingBox": {
+        "xmin": 9503.99,
+        "ymin": 15199.955,
+        "zmin": 3500.0,
+        "xmax": 9505.0,
+        "ymax": 15200.045,
+        "zmax": 3502.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "1kREV0BC07GQdADz60iwjc",
+      "name": "Type 01.02",
+      "BoundingBox": {
+        "xmin": 20605.0,
+        "ymin": 15199.955,
+        "zmin": 3500.0,
+        "xmax": 20606.01,
+        "ymax": 15200.045,
+        "zmax": 3502.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3L1Wmq83J$HAkaKYJerFVU",
+      "name": "Type 01.02",
+      "BoundingBox": {
+        "xmin": 21995.0,
+        "ymin": 17069.955,
+        "zmin": 3500.0,
+        "xmax": 21996.01,
+        "ymax": 17070.045,
+        "zmax": 3502.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2yX0akMeL2HP6xESuCNCLC",
+      "name": "Type 01.02",
+      "BoundingBox": {
+        "xmin": 17495.0,
+        "ymin": 17069.955,
+        "zmin": 3500.0,
+        "xmax": 17496.01,
+        "ymax": 17070.045,
+        "zmax": 3502.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "07Qe_kkCMTHfqMGxBi7QKv",
+      "name": "Type 01.02",
+      "BoundingBox": {
+        "xmin": 12995.0,
+        "ymin": 17069.955,
+        "zmin": 3500.0,
+        "xmax": 12996.01,
+        "ymax": 17070.045,
+        "zmax": 3502.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "1pkZOqFxMrGwf6Ui4FWU0p",
+      "name": "Type 01.02",
+      "BoundingBox": {
+        "xmin": 8495.0,
+        "ymin": 17069.955,
+        "zmin": 3500.0,
+        "xmax": 8496.01,
+        "ymax": 17070.045,
+        "zmax": 3502.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0g_1xC8wu_I87uafNIaIO$",
+      "name": "Type 00.01",
+      "BoundingBox": {
+        "xmin": 20104.92,
+        "ymin": 15162.338333299998,
+        "zmin": 0.0,
+        "xmax": 20105.01,
+        "ymax": 15163.3333333,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2iYnqQc11MHQPIW7LGY9ao",
+      "name": "Type 00.01",
+      "BoundingBox": {
+        "xmin": 20104.92,
+        "ymin": 14097.338333299998,
+        "zmin": 0.0,
+        "xmax": 20105.01,
+        "ymax": 14098.3333333,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "1AD6VlF7EwHh$priC96WzX",
+      "name": "Type 00.01",
+      "BoundingBox": {
+        "xmin": 20104.92,
+        "ymin": 13029.8896667,
+        "zmin": 0.0,
+        "xmax": 20105.018,
+        "ymax": 13030.9486667,
+        "zmax": 2.387
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3iyOwfRfYRHfwDXxM6yieZ",
+      "name": "Type 00.02",
+      "BoundingBox": {
+        "xmin": 14003.99,
+        "ymin": 15199.955,
+        "zmin": 0.0,
+        "xmax": 14005.0,
+        "ymax": 15200.045,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2taGOtiB$AJORUUUKAbS8j",
+      "name": "Type 00.02",
+      "BoundingBox": {
+        "xmin": 11753.99,
+        "ymin": 15199.955,
+        "zmin": 0.0,
+        "xmax": 11755.0,
+        "ymax": 15200.045,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2QyIvwBmHEIRFBNkBxdUe5",
+      "name": "Type 00.02",
+      "BoundingBox": {
+        "xmin": 9503.99,
+        "ymin": 15199.955,
+        "zmin": 0.0,
+        "xmax": 9505.0,
+        "ymax": 15200.045,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "1OzqBAid0IGehJTzR8$Fp6",
+      "name": "Type 01.01",
+      "BoundingBox": {
+        "xmin": 20104.92,
+        "ymin": 15164.005,
+        "zmin": 3500.0,
+        "xmax": 20105.01,
+        "ymax": 15165.0,
+        "zmax": 3502.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0Nu8UoHhPjJAi0mBSJxYIN",
+      "name": "Type 01.01",
+      "BoundingBox": {
+        "xmin": 20104.92,
+        "ymin": 14096.505,
+        "zmin": 3500.0,
+        "xmax": 20105.01,
+        "ymax": 14097.5,
+        "zmax": 3502.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3TPSLk03wBIeTaLQxTYJ5n",
+      "name": "Type 01.01",
+      "BoundingBox": {
+        "xmin": 20104.92,
+        "ymin": 13029.005,
+        "zmin": 3500.0,
+        "xmax": 20105.01,
+        "ymax": 13030.0,
+        "zmax": 3502.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2qX8D8SPd$G8uvxBYroJ2M",
+      "name": "Type 00.02",
+      "BoundingBox": {
+        "xmin": 21613.99,
+        "ymin": 11999.955,
+        "zmin": 0.0,
+        "xmax": 21615.0,
+        "ymax": 12000.045,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0wB_7sUWOGGRmBqLS98GkT",
+      "name": "Type 00.02",
+      "BoundingBox": {
+        "xmin": 16995.0,
+        "ymin": 11999.955,
+        "zmin": 0.0,
+        "xmax": 16996.01,
+        "ymax": 12000.045,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3KJptzkSKNHegh3GcllWLL",
+      "name": "Type 00.03",
+      "BoundingBox": {
+        "xmin": 40737.5014111,
+        "ymin": 10549.94,
+        "zmin": 0.0,
+        "xmax": 40738.5114111,
+        "ymax": 10550.06,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0g92fj_qH5JQ9SBNf0agxS",
+      "name": "Type 00.02s",
+      "BoundingBox": {
+        "xmin": 37615.7943921,
+        "ymin": 10549.94,
+        "zmin": 0.0,
+        "xmax": 37616.8043921,
+        "ymax": 10550.06,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0LWXaaA4PNJuyZAIYd69DL",
+      "name": "Type 00.02s",
+      "BoundingBox": {
+        "xmin": 33480.3928667,
+        "ymin": 13915.2635426,
+        "zmin": 0.0,
+        "xmax": 33480.512866699995,
+        "ymax": 13916.2735426,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2e0hyi4eixHRv0RNImlgSS",
+      "name": "Type 00.02s",
+      "BoundingBox": {
+        "xmin": 33480.3928667,
+        "ymin": 19249.732279199998,
+        "zmin": 0.0,
+        "xmax": 33480.512866699995,
+        "ymax": 19250.6322792,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "1JJz78sle5JOKakDc$BhHw",
+      "name": "Type 00.02",
+      "BoundingBox": {
+        "xmin": 23624.955,
+        "ymin": 13563.99,
+        "zmin": 0.0,
+        "xmax": 23625.045,
+        "ymax": 13565.0,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2b1VTgPatfG8U41n9$1x3A",
+      "name": "Type 00.02",
+      "BoundingBox": {
+        "xmin": 23624.955,
+        "ymin": 14643.99,
+        "zmin": 0.0,
+        "xmax": 23625.045,
+        "ymax": 14645.0,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3Y_BFLDrzxGOr0JDMJdI5S",
+      "name": "Type 00.02",
+      "BoundingBox": {
+        "xmin": 20605.0,
+        "ymin": 15199.955,
+        "zmin": 0.0,
+        "xmax": 20606.01,
+        "ymax": 15200.045,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3EL1ABfYJtJ9rtby0Bbdda",
+      "name": "Type 00.02",
+      "BoundingBox": {
+        "xmin": 18003.99,
+        "ymin": 15199.955,
+        "zmin": 0.0,
+        "xmax": 18005.0,
+        "ymax": 15200.045,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2_9dg8GN1RJxG7TpV_k4jB",
+      "name": "Type 01.02",
+      "BoundingBox": {
+        "xmin": 23624.955,
+        "ymin": 13563.99,
+        "zmin": 3500.0,
+        "xmax": 23625.045,
+        "ymax": 13565.0,
+        "zmax": 3502.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "15WxPxyfvnI8AMe1zoxvK2",
+      "name": "Type 01.02",
+      "BoundingBox": {
+        "xmin": 23624.955,
+        "ymin": 14643.99,
+        "zmin": 3500.0,
+        "xmax": 23625.045,
+        "ymax": 14645.0,
+        "zmax": 3502.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0UpFDqAqEOGg5iv865D1zu",
+      "name": "Type 01.02",
+      "BoundingBox": {
+        "xmin": 21613.99,
+        "ymin": 11999.955,
+        "zmin": 3500.0,
+        "xmax": 21615.0,
+        "ymax": 12000.045,
+        "zmax": 3502.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "1naOnMy3sBHfWTQpMHpH_k",
+      "name": "Type 01.09",
+      "BoundingBox": {
+        "xmin": 17338.2777981,
+        "ymin": 11999.955,
+        "zmin": 3500.0,
+        "xmax": 17340.0177981,
+        "ymax": 12000.045,
+        "zmax": 3502.7
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3gcxRgNzVZIxGPpphje0vL",
+      "name": "Type 01.08",
+      "BoundingBox": {
+        "xmin": 33430.4728827,
+        "ymin": 10448.2600049,
+        "zmin": 3500.0,
+        "xmax": 33430.562882700004,
+        "ymax": 10450.0000049,
+        "zmax": 3502.7
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3J0TyhOSlSGeSQPtSELRyL",
+      "name": "Type 01.08",
+      "BoundingBox": {
+        "xmin": 33430.4728827,
+        "ymin": 13863.26,
+        "zmin": 3500.0,
+        "xmax": 33430.562882700004,
+        "ymax": 13865.0,
+        "zmax": 3502.7
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3hSp8m8j$JH9FDrVvXL2to",
+      "name": "Type 00.02s",
+      "BoundingBox": {
+        "xmin": 32290.7626325,
+        "ymin": 10549.94,
+        "zmin": 0.0,
+        "xmax": 32291.772632499997,
+        "ymax": 10550.06,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0DJnpeFZazGxH3BPJYujT1",
+      "name": "Type 00.06",
+      "BoundingBox": {
+        "xmin": 7875.02,
+        "ymin": 15257.4567118,
+        "zmin": 0.0,
+        "xmax": 7875.11,
+        "ymax": 15259.1967118,
+        "zmax": 2.7
+      },
+      "props": {}
+    },
+    {
+      "global_id": "1JEVLaP$RxGvfeGh5QZpcb",
+      "name": "Type 00.03",
+      "BoundingBox": {
+        "xmin": 12425.89,
+        "ymin": 11816.49,
+        "zmin": 0.0,
+        "xmax": 12426.01,
+        "ymax": 11817.5,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "1ss7yEk8bAGO$FhKbU_me4",
+      "name": "Type 00.02s",
+      "BoundingBox": {
+        "xmin": 31204.94,
+        "ymin": 11838.990010399999,
+        "zmin": 0.0,
+        "xmax": 31205.06,
+        "ymax": 11840.0000104,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2_FxpXWsV8HQcqyjcJ6hw5",
+      "name": "Type 00.02",
+      "BoundingBox": {
+        "xmin": 38899.0941024,
+        "ymin": 12860.2120679,
+        "zmin": 0.0,
+        "xmax": 38899.2141024,
+        "ymax": 12861.2220679,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0VVDpZAjW_Guzh_IUjB39w",
+      "name": "Type 00.02s",
+      "BoundingBox": {
+        "xmin": 37259.3712715,
+        "ymin": 14059.94,
+        "zmin": 0.0,
+        "xmax": 37260.3812715,
+        "ymax": 14060.06,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3zWu48rFP6G9I0YF6kYWnv",
+      "name": "Type 00.05",
+      "BoundingBox": {
+        "xmin": 23624.955,
+        "ymin": 17003.26,
+        "zmin": 0.0,
+        "xmax": 23625.045,
+        "ymax": 17005.0,
+        "zmax": 2.7
+      },
+      "props": {}
+    },
+    {
+      "global_id": "1Y9UR2ngDbJAy1Le5i2Rke",
+      "name": "Type 01.09",
+      "BoundingBox": {
+        "xmin": 15124.955,
+        "ymin": 12730.0,
+        "zmin": 3500.0,
+        "xmax": 15125.045,
+        "ymax": 12731.74,
+        "zmax": 3502.7
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3kOfq3HwSTHOe4u1mkuFkp",
+      "name": "Type 01.05",
+      "BoundingBox": {
+        "xmin": 33210.598363100005,
+        "ymin": 11999.955,
+        "zmin": 3500.0,
+        "xmax": 33212.3383631,
+        "ymax": 12000.045,
+        "zmax": 3502.7
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0ab7580LQ1IP1zArGrmhW1",
+      "name": "Type 01.05",
+      "BoundingBox": {
+        "xmin": 23624.955,
+        "ymin": 17003.26,
+        "zmin": 3500.0,
+        "xmax": 23625.045,
+        "ymax": 17005.0,
+        "zmax": 3502.7
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2D8jxFky6DGv1JEjkOdgj1",
+      "name": "Type 01.05",
+      "BoundingBox": {
+        "xmin": 25560.76,
+        "ymin": 11964.99,
+        "zmin": 3500.0,
+        "xmax": 25562.5,
+        "ymax": 11965.08,
+        "zmax": 3502.7
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2VdwqqNQafGOvNOFQcHL8x",
+      "name": "Type 01.06",
+      "BoundingBox": {
+        "xmin": 7875.01,
+        "ymin": 15265.0,
+        "zmin": 3500.0,
+        "xmax": 7875.1,
+        "ymax": 15266.74,
+        "zmax": 3502.7
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3cj1ZB_n8uIuASwh0q2BbP",
+      "name": "Type 02.07s",
+      "BoundingBox": {
+        "xmin": 21374.94,
+        "ymin": 17929.73,
+        "zmin": 7000.0,
+        "xmax": 21375.054,
+        "ymax": 17931.93,
+        "zmax": 7002.367
+      },
+      "props": {}
+    },
+    {
+      "global_id": "33qWHuUc6PGujqWiZMdank",
+      "name": "Type 02.07",
+      "BoundingBox": {
+        "xmin": 31104.9401118,
+        "ymin": 17923.7781935,
+        "zmin": 7000.0,
+        "xmax": 31105.0541118,
+        "ymax": 17925.9781935,
+        "zmax": 7002.367
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0Q2A1giR38Jg81uLRo3Nz7",
+      "name": "Type F",
+      "BoundingBox": {
+        "xmin": 5189.845,
+        "ymin": 15285.0,
+        "zmin": -0.1,
+        "xmax": 5189.959,
+        "ymax": 15286.764,
+        "zmax": 2.367
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3jsTasR80rIhJQjEYQqYl1",
+      "name": "Type E",
+      "BoundingBox": {
+        "xmin": 35632.7264414,
+        "ymin": 14110.066,
+        "zmin": 3599.95,
+        "xmax": 35635.8264414,
+        "ymax": 14110.31,
+        "zmax": 3602.65
+      },
+      "props": {}
+    },
+    {
+      "global_id": "2B$iqPhv6hJhU48hXBMWEa",
+      "name": "Type 02.02s",
+      "BoundingBox": {
+        "xmin": 31104.94,
+        "ymin": 16030.3475764,
+        "zmin": 7000.0,
+        "xmax": 31105.06,
+        "ymax": 16031.3575764,
+        "zmax": 7002.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "3GK2GZfk5GIR73zmA58TDi",
+      "name": "Type 00.04",
+      "BoundingBox": {
+        "xmin": 29659.06317349066,
+        "ymin": 8605.618093748046,
+        "zmin": 0.0,
+        "xmax": 29660.033238065684,
+        "ymax": 8606.14262029005,
+        "zmax": 2.355
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0XJg5$7cT1HOaEoxKS5TrQ",
+      "name": "Curtain wall door",
+      "BoundingBox": {
+        "xmin": 33549.6928471,
+        "ymin": 5992.374274707143,
+        "zmin": 859.135573785931,
+        "xmax": 33549.752847100004,
+        "ymax": 5993.479274707143,
+        "zmax": 861.4165793229399
+      },
+      "props": {}
+    },
+    {
+      "global_id": "0nxOWNnw4gH9H11NVllp$C",
+      "name": "Curtain wall door",
+      "BoundingBox": {
+        "xmin": 27770.05901448482,
+        "ymin": 3833.35,
+        "zmin": 1284.3582767013702,
+        "xmax": 27773.389014484823,
+        "ymax": 3836.65,
+        "zmax": 1287.20827670137
+      },
+      "props": {}
+    }
+  ]
+}

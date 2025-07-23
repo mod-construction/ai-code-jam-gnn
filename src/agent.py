@@ -18,9 +18,13 @@ from agents.repair_agent import repair_agent
 from typing import TypedDict, List, Dict, Any
 
 
-def graph_assistant(prompt, bim_data):
+def graph_assistant(prompt, bim_data=""):
     # Build full context graph
-    graph = build_context_graph(bim_data)
+    bim_data_path = "src/sample_elements.json"
+    with open(bim_data_path, 'r', encoding='utf-8') as file:
+        data = json.load(file)
+        print("Data loaded succesffuly!")
+    graph = build_context_graph(data)
 
     initial_state = {
         "query": prompt,
@@ -29,6 +33,7 @@ def graph_assistant(prompt, bim_data):
         "node_types": ["Wall", "Room", "Slab","Door"],
         "edge_types": ["adjacent_to", "contained_in"],
         "node_attributes": {
+            "type": "string",
             "name": "string",
             "BoundingBox": {
                 "xmin": "float",
@@ -38,8 +43,7 @@ def graph_assistant(prompt, bim_data):
                 "ymax": "float",
                 "zmax": "float"
             },
-            "props": {"load_bearing": "boolean"  
-        }
+            "props": {"load_bearing": "boolean"  }
         }
         },
         "attempt": 0
@@ -102,15 +106,15 @@ def graph_assistant(prompt, bim_data):
 if __name__ == "__main__":
     import time
     start_time = time.time()
-    bim_data_path = "src/sample_data.json"
-    with open(bim_data_path, 'r', encoding='utf-8') as file:
-        data = json.load(file)
-        print("Data loaded succesffuly!")
+    # bim_data_path = "src/sample_data.json"
+    # with open(bim_data_path, 'r', encoding='utf-8') as file:
+    #     data = json.load(file)
+    #     print("Data loaded succesffuly!")
 
     prompt = "Show me all walls"
     # show me all walls that has dry wall material
     print("\n Starting agentic workflow...")
-    final_state, summary = graph_assistant(prompt, data)
+    final_state, summary = graph_assistant(prompt)
 
     print("\n Summary of result:")
     print(summary)
