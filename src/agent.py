@@ -26,7 +26,7 @@ def graph_assistant(prompt, bim_data):
         "query": prompt,
         "graph": graph,
         "schema" : {
-        "node_types": ["Wall", "Room", "Slab"],
+        "node_types": ["Wall", "Room", "Slab","Door"],
         "edge_types": ["adjacent_to", "contained_in"],
         "node_attributes": {
             "name": "string",
@@ -37,7 +37,9 @@ def graph_assistant(prompt, bim_data):
                 "xmax": "float",
                 "ymax": "float",
                 "zmax": "float"
-            }
+            },
+            "props": {"load_bearing": "boolean"  
+        }
         }
         },
         "attempt": 0
