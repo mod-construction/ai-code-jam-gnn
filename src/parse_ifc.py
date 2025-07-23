@@ -20,12 +20,9 @@
 #     return elements  # return empty for now
 
 # parse_ifc.py
-
-# parse_ifc.py
-
 from __future__ import annotations
 from typing import Dict, List
-
+import json
 import numpy as np
 import ifcopenshell
 import ifcopenshell.util.shape as ushape
@@ -43,7 +40,14 @@ TYPE_TO_KEY = {
 LOAD_BEARING_PSETS = {
     "IfcWall": "Pset_WallCommon",
     "IfcSlab": "Pset_SlabCommon",
-    
+  
+}
+
+FIRE_RATING_PSETS = {
+    "IfcWall": "Pset_WallCommon",
+    "IfcSlab": "Pset_SlabCommon",
+    "IfcDoor": "Pset_DoorCommon",
+  
 }
 
 _SETTINGS = geom.settings()
@@ -52,11 +56,11 @@ def _add_mock_relationships(
     elements: Dict[str, List[dict]],
     adj_range: tuple[int, int] = (1, 3),      # how many “adjacents” IDs per wall
     cont_range: tuple[int, int] = (1, 2),     # how many “containeds” IDs per wall
-):
+) -> None:
     """
     add:
-      adjacent_to  -> list[str]
-      contained_in -> list[str]
+      * adjacent_to  -> list[str]
+      * contained_in -> list[str]
 
     IDs are drawn randomly from all other elements except for the wall itself.
     """
@@ -110,10 +114,15 @@ def parse_ifc_to_json(ifc_path):
 
             #if ifcwall or ifcslab (for now) add "load_bearing" bool propery ro "props"
             props = {}
-            pset_name = LOAD_BEARING_PSETS.get(ifc_type)
-            if pset_name:
+            lb_pset_name = LOAD_BEARING_PSETS.get(ifc_type)
+            if lb_pset_name:
                 psets = ifcopenshell.util.element.get_psets(obj) or {}
-                props["load_bearing"] = bool(psets.get(pset_name, {}).get("LoadBearing", False))
+                props["load_bearing"] = bool(psets.get(lb_pset_name, {}).get("LoadBearing", False))
+
+            fr_pset_name = FIRE_RATING_PSETS.get(ifc_type)
+            if fr_pset_name:
+                psets = ifcopenshell.util.element.get_psets(obj) or {}
+                props["fire_rating"] = psets.get(fr_pset_name, {}).get("FireRating", None)
 
 
 
@@ -145,3 +154,11 @@ def parse_ifc_to_json(ifc_path):
 
 
     return elements
+
+
+
+# out_path = "data/sample_elements.json"
+# elements = parse_ifc_to_json("data/sample.ifc")
+# with open(out_path, "w", encoding="utf-8") as f:
+#     json.dump(elements, f, indent=2)   
+# print(f"Wrote {out_path}")
