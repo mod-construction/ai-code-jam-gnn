@@ -143,7 +143,6 @@ ai-code-jam-gnn/
 
 ### IFC Parsing
 - walls
--    IfcWall
 - slabs
 - spaces
 
@@ -160,7 +159,14 @@ Test topologicpy to create graph
   - `adjacent_to`
   - `contained_in`
 
+Other options are using RTrees or using Compas.
+
+Returns:
+- modified json with information adjacent_to and contained_in
+- networkx graph
+
 ### Agentic Wrapper
+The agentic wrapper is described in the graphic below
 <img width="314" height="801" alt="Image20250723134418" src="https://github.com/user-attachments/assets/7409c619-1a4f-4fc7-8d63-ff1fc97a21ec" />
 
 
