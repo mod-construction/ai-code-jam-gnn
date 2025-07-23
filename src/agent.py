@@ -29,22 +29,24 @@ def graph_assistant(prompt, bim_data=""):
     initial_state = {
         "query": prompt,
         "graph": graph,
-        "schema" : {
-        "node_types": ["Wall", "Room", "Slab","Door"],
-        "edge_types": ["adjacent_to", "contained_in"],
-        "node_attributes": {
-            "type": "string",
-            "name": "string",
-            "BoundingBox": {
-                "xmin": "float",
-                "ymin": "float",
-                "zmin": "float",
-                "xmax": "float",
-                "ymax": "float",
-                "zmax": "float"
-            },
-            "props": {"load_bearing": "boolean"  }
-        }
+        "schema": {
+            "node_types": ["Wall", "Room", "Slab", "Door"],
+            "edge_types": ["adjacent_to", "contained_in"],
+            "node_attributes": {
+                "type": "string",     
+                "name": "string",
+                "bounding_box": {
+                    "xmin": "float",
+                    "ymin": "float",
+                    "zmin": "float",
+                    "xmax": "float",
+                    "ymax": "float",
+                    "zmax": "float"
+                },
+                "properties": {
+                    "load_bearing": "boolean"
+                }
+            }
         },
         "attempt": 0
     }
@@ -111,7 +113,7 @@ if __name__ == "__main__":
     #     data = json.load(file)
     #     print("Data loaded succesffuly!")
 
-    prompt = "Show me all walls"
+    prompt = "Show me all walls that are load bearing"
     # show me all walls that has dry wall material
     print("\n Starting agentic workflow...")
     final_state, summary = graph_assistant(prompt)

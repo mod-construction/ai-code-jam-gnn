@@ -1,5 +1,5 @@
 {
-  "walls": [
+  "Wall": [
     {
       "global_id": "00oZxkjymyIBhCBmXyRiqV",
       "name": "Separation wall (non LB)",
@@ -3851,7 +3851,7 @@
       ]
     }
   ],
-  "slabs": [
+  "Slab": [
     {
       "global_id": "2cxgMcsC2OIvi3TYtxx1z8",
       "name": "Hollow core slab 180",
@@ -3988,7 +3988,7 @@
       }
     }
   ],
-  "rooms": [
+  "Room": [
     {
       "global_id": "0fZvHMy1_LIuxlSD0ZdEe4",
       "name": "00.03",
@@ -4653,7 +4653,7 @@
       "props": {}
     }
   ],
-  "doors": [
+  "Door": [
     {
       "global_id": "0yeZSZRUW0IfFY9zGbBsQq",
       "name": "Type 00.02",

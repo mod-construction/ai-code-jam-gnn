@@ -18,7 +18,11 @@ def visualize_agent(state):
             H.add_edge(u, v, **attrs)
 
     pos = nx.spring_layout(H, seed=42)  
-    node_labels = {n: f"{n}\n({H.nodes[n].get('type', '')})" for n in H.nodes()}
+    def clean_label(node_id):
+        return node_id.replace("$", "﹩")  
+
+    node_labels = {
+        n: f"{clean_label(n)}\n({H.nodes[n].get('type', '')})" for n in H.nodes()}
     edge_labels = {(u, v): d.get("relation", "") for u, v, d in H.edges(data=True)}
 
     plt.figure(figsize=(8, 6))
