@@ -19,6 +19,8 @@
 
 #     return elements  # return empty for now
 
+# parse_ifc.py
+
 from __future__ import annotations
 from typing import Dict, List
 
@@ -33,12 +35,16 @@ TYPE_TO_KEY = {
     "IfcWall": "walls",
     "IfcSlab": "slabs",
     "IfcSpace": "rooms",
+    "IfcDoor": "doors"
 }
 
-# use world coordinates so our bounding box is in global space
-_SETTINGS = geom.settings()
-_SETTINGS.set(_SETTINGS.USE_WORLD_COORDS, True)
+LOAD_BEARING_PSETS = {
+    "IfcWall": "Pset_WallCommon",
+    "IfcSlab": "Pset_SlabCommon",
+    
+}
 
+_SETTINGS = geom.settings()
 
 def parse_ifc_to_json(ifc_path):
     """
@@ -54,18 +60,28 @@ def parse_ifc_to_json(ifc_path):
 
     for ifc_type, out_key in TYPE_TO_KEY.items():
         for obj in model.by_type(ifc_type):
-            # buiild shape
+            # build shape
             shape = geom.create_shape(_SETTINGS, obj)
 
-            #get vertices
-            flat_verts = shape.geometry.verts
-            verts = np.array(flat_verts, dtype=float).reshape(-1, 3)
+            # get vertices
+            verts = ushape.get_element_vertices(obj, shape.geometry)
 
             # bbox corners
             bbox_min, bbox_max = ushape.get_bbox(verts)
 
             # get name
-            name =  getattr(obj, "Name", None)     
+            name =  getattr(obj, "Name", None)    
+
+
+
+            #if ifcwall or ifcslab (for now) add "load_bearing" bool propery to "props"
+            props = {}
+            pset_name = LOAD_BEARING_PSETS.get(ifc_type)
+            if pset_name:
+                psets = ifcopenshell.util.element.get_psets(obj) or {}
+                props["load_bearing"] = bool(psets.get(pset_name, {}).get("LoadBearing", False))
+
+
 
             # append
             elements[out_key].append({
@@ -78,8 +94,10 @@ def parse_ifc_to_json(ifc_path):
                     "xmax": float(bbox_max[0]),
                     "ymax": float(bbox_max[1]),
                     "zmax": float(bbox_max[2]),
-                }
+                },
+                "props": props
             })
+
 
     # print summary
     print(f"IFC file loaded: {ifc_path}")
@@ -88,4 +106,4 @@ def parse_ifc_to_json(ifc_path):
 
     return elements
 
-#print(parse_ifc_to_json(ifc_path="data/sample.ifc"))
+print(parse_ifc_to_json(ifc_path="data/sample.ifc"))
