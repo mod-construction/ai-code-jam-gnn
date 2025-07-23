@@ -139,6 +139,32 @@ ai-code-jam-gnn/
 └── README.md
 ```
 
+## Architecture Solution 
+
+### IFC Parsing
+- walls
+-    IfcWall
+- slabs
+- spaces
+
+Metadata
+  - Name
+  - Guid
+Geometry
+- Boundingbox
+
+Remark: Validate if all Types are included within groups wall,slab,room
+
+### Connectivity
+Test topologicpy to create graph 
+  - `adjacent_to`
+  - `contained_in`
+
+### Agentic Wrapper
+<img width="314" height="801" alt="Image20250723134418" src="https://github.com/user-attachments/assets/7409c619-1a4f-4fc7-8d63-ff1fc97a21ec" />
+
+
+
 ## 🚀 Let’s Build the First MOD Graph Tool!
 
 This challenge is an entry point into the graph abstraction layer that will power MOD's contextual reasoning, validation, and prefab recommendations. It's also a test of how domain expertise, geometric logic, and AI orchestration come together.
