@@ -5,6 +5,6 @@ logging.json
 src/.env
 venv
 src/sample_data.json
-/images
+#/images
 *.png
 src/graph_builder.py
