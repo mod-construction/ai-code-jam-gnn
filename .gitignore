@@ -1,0 +1,10 @@
+notes.md 
+src/__pycache__
+src/agents/__pycache__
+logging.json
+src/.env
+venv
+src/sample_data.json
+#/images
+#*.png
+src/graph_builder.py

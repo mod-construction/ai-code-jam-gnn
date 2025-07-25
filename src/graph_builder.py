@@ -7,7 +7,9 @@ from topologicpy.Cell import Cell
 from topologicpy.Face import Face
 from topologicpy.Shell import Shell
 from topologicpy.Dictionary import Dictionary
+from utils import measure_latency
 
+@measure_latency
 def build_context_graph(bim_data, graph):
     G = nx.Graph()
 
@@ -18,6 +20,7 @@ def build_context_graph(bim_data, graph):
             global_id = elem["global_id"]
             elem.setdefault("adjacent_to", set())
             elem.setdefault("contained_in", set())
+            elem["category"] = category
             global_id_to_elem[global_id] = elem
             G.add_node(global_id, **elem)
 
@@ -46,7 +49,7 @@ def build_context_graph(bim_data, graph):
         id2 = Dictionary.ValueAtKey(d2, "IFC_global_id")
 
         if id1 and id2:
-            G.add_edge(id1, id2)
+            G.add_edge(id1, id2, relation="adjacent_to") 
             if not isinstance(global_id_to_elem[id1]["adjacent_to"], set):
                 global_id_to_elem[id1]["adjacent_to"] = set(global_id_to_elem[id1]["adjacent_to"])
             if not isinstance(global_id_to_elem[id2]["adjacent_to"], set):
@@ -64,8 +67,17 @@ def build_context_graph(bim_data, graph):
     print("Number of edges:", G.number_of_edges())
     #Graph.Show(graph)
     #plot_graph(G)
+
+    # Step 6: Add containment relationships as edges
+    for node_id, attrs in G.nodes(data=True):
+        for container_id in attrs.get("contained_in", []):
+            if G.has_node(container_id):
+                G.add_edge(node_id, container_id, relation="contained_in")
+
     return G, bim_data
 
+
+@measure_latency
 def load_ifc_topology(ifc_path, return_type="cells", verbose=True):
 
     try:

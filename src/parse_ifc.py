@@ -1,25 +1,4 @@
-# # parse_ifc.py
 
-# import ifcopenshell
-
-# def parse_ifc_to_json(ifc_path):
-#     model = ifcopenshell.open(ifc_path)
-
-#     elements = {
-#         "walls": [],
-#         "doors": [],
-#         "rooms": []
-#     }
-
-#     # TODO: Extract and transform relevant IFC elements into simplified JSON format
-#     print("IFC file loaded. Found:")
-#     print(" - Walls:", len(model.by_type("IfcWall")))
-#     print(" - Doors:", len(model.by_type("IfcDoor")))
-#     print(" - Spaces:", len(model.by_type("IfcSpace")))
-
-#     return elements  # return empty for now
-
-# parse_ifc.py
 from __future__ import annotations
 from typing import Dict, List
 import json
@@ -28,6 +7,9 @@ import ifcopenshell
 import ifcopenshell.util.shape as ushape
 import ifcopenshell.geom as geom
 import random
+
+from utils import measure_latency
+
 # ——————————————————————————————————————————————————————————————
 # our types
 TYPE_TO_KEY = {
@@ -84,6 +66,7 @@ def _add_mock_relationships(
             pool, k=min(random.randint(*cont_range), len(pool))
         )
 
+@measure_latency
 def parse_ifc_to_json(ifc_path):
     """
     Reads an IFC file and returns a dict:
@@ -109,7 +92,6 @@ def parse_ifc_to_json(ifc_path):
 
             # get name
             name =  getattr(obj, "Name", None)    
-
 
 
             #if ifcwall or ifcslab (for now) add "load_bearing" bool propery ro "props"
