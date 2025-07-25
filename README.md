@@ -50,7 +50,6 @@ You’ll also simulate how this capability would be embedded in a **LangGraph-st
 - Edges: spatial/semantic relationships
   - `adjacent_to`
   - `contained_in`
-  - `connected_to`
 - Attributes: type, dimensions, load-bearing status, etc.
 - Output: Graph object (e.g., NetworkX) + JSON
 
