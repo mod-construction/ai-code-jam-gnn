@@ -62,8 +62,8 @@ def build_context_graph(bim_data, graph):
             elem["adjacent_to"] = global_id_to_elem[gid]["adjacent_to"]
     print("Number of nodes:", G.number_of_nodes())
     print("Number of edges:", G.number_of_edges())
-    Graph.Show(graph)
-    plot_graph(G)
+    #Graph.Show(graph)
+    #plot_graph(G)
     return G, bim_data
 
 def load_ifc_topology(ifc_path, return_type="cells", verbose=True):
