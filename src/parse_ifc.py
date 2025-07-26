@@ -112,6 +112,7 @@ def parse_ifc_to_json(ifc_path):
             elements[out_key].append({
                 "global_id": obj.GlobalId,
                 "name": name,
+                "category": out_key,
                 "BoundingBox": {
                     "xmin": float(bbox_min[0]),
                     "ymin": float(bbox_min[1]),
@@ -132,7 +133,7 @@ def parse_ifc_to_json(ifc_path):
 
 
     #-------------------------------------------mock relationships--------------------------------------------------------
-    _add_mock_relationships(elements)
+    #_add_mock_relationships(elements)
 
 
     return elements
