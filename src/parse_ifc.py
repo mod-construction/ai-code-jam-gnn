@@ -36,35 +36,53 @@ _SETTINGS = geom.settings()
 
 def _add_mock_relationships(
     elements: Dict[str, List[dict]],
-    adj_range: tuple[int, int] = (1, 3),      # how many “adjacents” IDs per wall
-    cont_range: tuple[int, int] = (1, 2),     # how many “containeds” IDs per wall
+    adj_range: tuple[int, int] = (1, 3),
+    cont_range: tuple[int, int] = (1, 2),
+    mock_adj: bool = True,
+    mock_cont: bool = True,
 ) -> None:
     """
-    add:
-      * adjacent_to  -> list[str]
-      * contained_in -> list[str]
+    Optionally add mock adjacency and/or containment lists to each wall.
 
-    IDs are drawn randomly from all other elements except for the wall itself.
+    Parameters
+    ----------
+    elements : Dict[str, List[dict]]
+        parsed IFC data, keyed by category ("walls", "slabs", etc.).
+    adj_range : tuple[int,int]
+        Range for how many mock 'adjacent_to' IDs to sample per wall.
+    cont_range : tuple[int,int]
+        Range for how many mock 'contained_in' IDs to sample per wall.
+    mock_adj : bool
+        If True, generate a mock 'adjacent_to' list.
+    mock_cont : bool
+        If True, generate a mock 'contained_in' list.
+
+    This only populates walls.
     """
-    # flat list of ALL global_ids
-    all_ids: list[str] = [
-        item["global_id"]
-        for cat in elements.values()
-        for item in cat
-    ]
+    if not (mock_adj or mock_cont):
+        return  # nothing to do
 
-    for wall in elements["walls"]:
-        # pool without the wall’s own ID
-        pool = [gid for gid in all_ids if gid != wall["global_id"]]
-        if not pool:        # skip if the IFC only had one element
+    # collect all IDs once
+    all_ids = [item["global_id"] for items in elements.values() for item in items]
+
+    for wall in elements.get("walls", []):
+        gid = wall["global_id"]
+        # build pool excluding self
+        pool = [x for x in all_ids if x != gid]
+        if not pool:
             continue
 
-        wall["adjacent_to"] = random.sample(
-            pool, k=min(random.randint(*adj_range), len(pool))
-        )
-        wall["contained_in"] = random.sample(
-            pool, k=min(random.randint(*cont_range), len(pool))
-        )
+        if mock_adj:
+            k = min(random.randint(*adj_range), len(pool))
+            wall["adjacent_to"] = random.sample(pool, k)
+        else:
+            wall.pop("adjacent_to", None)
+
+        if mock_cont:
+            k = min(random.randint(*cont_range), len(pool))
+            wall["contained_in"] = random.sample(pool, k)
+        else:
+            wall.pop("contained_in", None)
 
 @measure_latency
 def parse_ifc_to_json(ifc_path):
@@ -133,7 +151,7 @@ def parse_ifc_to_json(ifc_path):
 
 
     #-------------------------------------------mock relationships--------------------------------------------------------
-    #_add_mock_relationships(elements)
+    _add_mock_relationships(elements, mock_adj=False, mock_cont=True)
 
 
     return elements
