@@ -20,7 +20,7 @@ def build_context_graph(bim_data, graph):
             global_id = elem["global_id"]
             elem.setdefault("adjacent_to", set())
             elem.setdefault("contained_in", set())
-            elem["category"] = category
+            #elem["category"] = category
             global_id_to_elem[global_id] = elem
             G.add_node(global_id, **elem)
 
